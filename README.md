@@ -75,7 +75,6 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 
 ## Recent Github Activity
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nechry&show_icons=true&hide_border=true" />
 
