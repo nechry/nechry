@@ -38,9 +38,8 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 <br />
 
 ### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- <!-- BLOG-POST-LIST::START -->
+<!-- <!-- BLOG-POST-LIST::END -->
 
 ➡️ [more blog posts...][website]
 
