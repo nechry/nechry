@@ -15,6 +15,18 @@ By nature I like to share, that's why I got involved in several open source proj
 
 At last, I share content on my private Blog, [Nechry home automation][website], it's a home automation blog that mainly deals with the Z-Wave protocol and good practices.
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Bons plans domotique](https://nechry-automation.ch/2018/06/11/bons-plans-du-jour-2-2-2/?utm_source=rss&utm_medium=rss&utm_campaign=bons-plans-du-jour-2-2-2)
+- [Amazon Echo à -50%](https://nechry-automation.ch/2018/06/11/amazon-echo-a-50/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-echo-a-50)
+- [API RESTful du plugin ZWave](https://nechry-automation.ch/2018/06/07/api-restful/?utm_source=rss&utm_medium=rss&utm_campaign=api-restful)
+- [Domotiser une toile de store extérieur](https://nechry-automation.ch/2018/05/30/domotiser-toile-store/?utm_source=rss&utm_medium=rss&utm_campaign=domotiser-toile-store)
+- [Exploiter la classe de commande Scene Activation](https://nechry-automation.ch/2018/05/28/exploiter-cc-scene-activation/?utm_source=rss&utm_medium=rss&utm_campaign=exploiter-cc-scene-activation)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...][website]
+
+---
 
 ### Languages and Tools:
 
@@ -36,19 +48,6 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 
 <br />
 <br />
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Bons plans domotique](https://nechry-automation.ch/2018/06/11/bons-plans-du-jour-2-2-2/?utm_source=rss&utm_medium=rss&utm_campaign=bons-plans-du-jour-2-2-2)
-- [Amazon Echo à -50%](https://nechry-automation.ch/2018/06/11/amazon-echo-a-50/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-echo-a-50)
-- [API RESTful du plugin ZWave](https://nechry-automation.ch/2018/06/07/api-restful/?utm_source=rss&utm_medium=rss&utm_campaign=api-restful)
-- [Domotiser une toile de store extérieur](https://nechry-automation.ch/2018/05/30/domotiser-toile-store/?utm_source=rss&utm_medium=rss&utm_campaign=domotiser-toile-store)
-- [Exploiter la classe de commande Scene Activation](https://nechry-automation.ch/2018/05/28/exploiter-cc-scene-activation/?utm_source=rss&utm_medium=rss&utm_campaign=exploiter-cc-scene-activation)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...][website]
-
----
 
 ---
 
