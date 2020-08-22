@@ -9,9 +9,11 @@
 I live in Switzerland and I am a full-time IoT solution engineer and passionate about home automation on my free time.
 
 By nature I like to share, that's why I got involved in several open source projects 🔭:
-- I am part of the organization [Openzwave](https://github.com/OpenZWave) as a contributor to the openzwave library since 2015 already.
-- I previously developed and maintained the [plugin-openzwave](https://github.com/jeedom/plugin-openzwave) for jeedom gateways.
-- I also helped and maintained [python-openzwave](https://github.com/OpenZWave/python-openzwave) for a while.
+- I am part of the organization [Openzwave][Openzwave] as a contributor to the openzwave library since 2015 already.
+- I previously developed and maintained the [plugin-openzwave][plugin-openzwave] for jeedom gateways.
+- I also helped and maintained [python-openzwave][python-openzwave] for a while.
+
+If you find my work useful, consider supporting me as a [sponsor][sponsor] Thank you in advance!
 
 At last, I share content on my private Blog, [Nechry home automation][website], it's a home automation blog that mainly deals with the Z-Wave protocol and good practices.
 
@@ -60,14 +62,16 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 
 <br />
 
-If you find my work useful, consider supporting me as a [sponsor](https://github.com/sponsors/nechry)
 
-Thank you in advance!
 
 [website]: https://nechry-automation.ch
 [twitter]: https://twitter.com/nechry
 [instagram]: https://instagram.com/nechry
 [linkedin]: https://linkedin.com/in/jfauger
+[sponsor]: https://github.com/sponsors/nechry
+[Openzwave]: https://github.com/OpenZWave
+[plugin-openzwave]: https://github.com/jeedom/plugin-openzwave
+[python-openzwave]: https://github.com/OpenZWave/python-openzwave
 
 ## Recent Github Activity
 <!--START_SECTION:activity-->
