@@ -49,15 +49,6 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ➡️ [more blog posts...][website]
 
 ---
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-</details>
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nechry&show_icons=true&hide_border=true" />
-</details>
 
 ---
 
@@ -78,3 +69,11 @@ Thank you in advance!
 [twitter]: https://twitter.com/nechry
 [instagram]: https://instagram.com/nechry
 [linkedin]: https://linkedin.com/in/jfauger
+
+## Recent Github Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nechry&show_icons=true&hide_border=true" />
+
+
