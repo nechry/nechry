@@ -1,6 +1,6 @@
-### About me 👋
+# About me 👋
 
-### Hi there, I'm Jean-François - aka [nechry][website]
+## Hi there, I'm Jean-François - aka [nechry][website]
 
 [![Website](https://img.shields.io/website?label=nechry-automation.ch&style=for-the-badge&url=https%3A%2F%2Fnechry-automation.ch)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/nechry?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnechry&screen_name=nechry)
@@ -8,6 +8,7 @@
 I live in Switzerland and I am a full-time IoT solution engineer and passionate about home automation on my free time.
 
 By nature I like to share, that's why I got involved in several open source projects 🔭:
+
 - I am part of the organization [Openzwave][Openzwave] as a contributor to the openzwave library since 2015 already.
 - I previously developed and maintained the [plugin-openzwave][plugin-openzwave] for jeedom gateways.
 - I also helped and maintained [python-openzwave][python-openzwave] for a while.
@@ -29,7 +30,7 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 
 ---
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Microsoft Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
@@ -47,21 +48,18 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
+[2 spaces]
 
 ---
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="nechry-automation" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="nechry | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jfauger | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nechry | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
-
+[2 spaces]
 
 [website]: https://nechry-automation.ch
 [twitter]: https://twitter.com/nechry
