@@ -51,11 +51,11 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2480](https://github.com/OpenZWave/open-zwave/pull/2480) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-2. 🎉 Merged PR [#2482](https://github.com/OpenZWave/open-zwave/pull/2482) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-3. 🎉 Merged PR [#2485](https://github.com/OpenZWave/open-zwave/pull/2485) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-4. 🎉 Merged PR [#2495](https://github.com/OpenZWave/open-zwave/pull/2495) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-5. 🎉 Merged PR [#2493](https://github.com/OpenZWave/open-zwave/pull/2493) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+1. 🎉 Merged PR [#2466](https://github.com/OpenZWave/open-zwave/pull/2466) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+2. 🗣 Commented on [#2524](https://github.com/OpenZWave/open-zwave/issues/2524) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+3. 🎉 Merged PR [#2524](https://github.com/OpenZWave/open-zwave/pull/2524) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+4. 🎉 Merged PR [#2523](https://github.com/OpenZWave/open-zwave/pull/2523) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+5. 🎉 Merged PR [#2476](https://github.com/OpenZWave/open-zwave/pull/2476) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
 <!--END_SECTION:activity-->
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nechry&show_icons=true&hide_border=true" />
