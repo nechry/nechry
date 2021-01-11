@@ -51,11 +51,11 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/domotruc/jMQTT/issues/110) in [domotruc/jMQTT](https://github.com/domotruc/jMQTT)
-2. 🗣 Commented on [#2530](https://github.com/OpenZWave/open-zwave/issues/2530) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-3. 🗣 Commented on [#2530](https://github.com/OpenZWave/open-zwave/issues/2530) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-4. 🎉 Merged PR [#2530](https://github.com/OpenZWave/open-zwave/pull/2530) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-5. ❗️ Closed issue [#2529](https://github.com/OpenZWave/open-zwave/issues/2529) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+1. 🗣 Commented on [#2534](https://github.com/OpenZWave/open-zwave/issues/2534) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+2. 🗣 Commented on [#2533](https://github.com/OpenZWave/open-zwave/issues/2533) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+3. 🗣 Commented on [#2534](https://github.com/OpenZWave/open-zwave/issues/2534) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+4. 🗣 Commented on [#110](https://github.com/domotruc/jMQTT/issues/110) in [domotruc/jMQTT](https://github.com/domotruc/jMQTT)
+5. 🗣 Commented on [#2530](https://github.com/OpenZWave/open-zwave/issues/2530) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
 <!--END_SECTION:activity-->
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nechry&show_icons=true&hide_border=true" />
