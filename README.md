@@ -51,11 +51,11 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MikaelBertze/HallonDispDevices/issues/1) in [MikaelBertze/HallonDispDevices](https://github.com/MikaelBertze/HallonDispDevices)
+1. ❗️ Closed issue [#1](https://github.com/MikaelBertze/HallonDispDevices/issues/1) in [MikaelBertze/HallonDispDevices](https://github.com/MikaelBertze/HallonDispDevices)
 2. 🗣 Commented on [#1](https://github.com/MikaelBertze/HallonDispDevices/issues/1) in [MikaelBertze/HallonDispDevices](https://github.com/MikaelBertze/HallonDispDevices)
-3. ❗️ Opened issue [#1](https://github.com/MikaelBertze/HallonDispDevices/issues/1) in [MikaelBertze/HallonDispDevices](https://github.com/MikaelBertze/HallonDispDevices)
-4. ❗️ Closed issue [#2563](https://github.com/OpenZWave/open-zwave/issues/2563) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-5. 🗣 Commented on [#2586](https://github.com/OpenZWave/open-zwave/issues/2586) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+3. 🗣 Commented on [#1](https://github.com/MikaelBertze/HallonDispDevices/issues/1) in [MikaelBertze/HallonDispDevices](https://github.com/MikaelBertze/HallonDispDevices)
+4. 🗣 Commented on [#1](https://github.com/MikaelBertze/HallonDispDevices/issues/1) in [MikaelBertze/HallonDispDevices](https://github.com/MikaelBertze/HallonDispDevices)
+5. ❗️ Opened issue [#1](https://github.com/MikaelBertze/HallonDispDevices/issues/1) in [MikaelBertze/HallonDispDevices](https://github.com/MikaelBertze/HallonDispDevices)
 <!--END_SECTION:activity-->
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nechry&show_icons=true&hide_border=true" />
