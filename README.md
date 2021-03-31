@@ -51,11 +51,11 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2595](https://github.com/OpenZWave/open-zwave/pull/2595) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-2. 🗣 Commented on [#205](https://github.com/jeedom/plugin-openzwave/issues/205) in [jeedom/plugin-openzwave](https://github.com/jeedom/plugin-openzwave)
-3. 🗣 Commented on [#2592](https://github.com/OpenZWave/open-zwave/issues/2592) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-4. 🎉 Merged PR [#2592](https://github.com/OpenZWave/open-zwave/pull/2592) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-5. 🗣 Commented on [#3915](https://github.com/thingsboard/thingsboard/issues/3915) in [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
+1. 🗣 Commented on [#236](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/issues/236) in [witnessmenow/Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
+2. 💪 Opened PR [#236](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/pull/236) in [witnessmenow/Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
+3. 🎉 Merged PR [#2595](https://github.com/OpenZWave/open-zwave/pull/2595) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+4. 🗣 Commented on [#205](https://github.com/jeedom/plugin-openzwave/issues/205) in [jeedom/plugin-openzwave](https://github.com/jeedom/plugin-openzwave)
+5. 🗣 Commented on [#2592](https://github.com/OpenZWave/open-zwave/issues/2592) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
 <!--END_SECTION:activity-->
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nechry&show_icons=true&hide_border=true" />
