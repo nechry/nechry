@@ -52,10 +52,10 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2602](https://github.com/OpenZWave/open-zwave/issues/2602) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-2. 🗣 Commented on [#2602](https://github.com/OpenZWave/open-zwave/issues/2602) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-3. 🗣 Commented on [#2601](https://github.com/OpenZWave/open-zwave/issues/2601) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-4. 🎉 Merged PR [#2601](https://github.com/OpenZWave/open-zwave/pull/2601) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-5. 🗣 Commented on [#83](https://github.com/matteodanelli/MMM-cryptocurrency/issues/83) in [matteodanelli/MMM-cryptocurrency](https://github.com/matteodanelli/MMM-cryptocurrency)
+2. 🎉 Merged PR [#2602](https://github.com/OpenZWave/open-zwave/pull/2602) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+3. 🗣 Commented on [#2602](https://github.com/OpenZWave/open-zwave/issues/2602) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+4. 🗣 Commented on [#2602](https://github.com/OpenZWave/open-zwave/issues/2602) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+5. 🗣 Commented on [#2601](https://github.com/OpenZWave/open-zwave/issues/2601) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
 <!--END_SECTION:activity-->
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nechry&show_icons=true&hide_border=true" />
