@@ -51,10 +51,10 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/stacksmashing/pdnd-picoprobe/pull/5) in [stacksmashing/pdnd-picoprobe](https://github.com/stacksmashing/pdnd-picoprobe)
-2. ❗️ Opened issue [#4](https://github.com/stacksmashing/pdnd-picoprobe/issues/4) in [stacksmashing/pdnd-picoprobe](https://github.com/stacksmashing/pdnd-picoprobe)
-3. ❗️ Closed issue [#2](https://github.com/stacksmashing/pdnd-picoprobe/issues/2) in [stacksmashing/pdnd-picoprobe](https://github.com/stacksmashing/pdnd-picoprobe)
-4. 🗣 Commented on [#2](https://github.com/stacksmashing/pdnd-picoprobe/issues/2) in [stacksmashing/pdnd-picoprobe](https://github.com/stacksmashing/pdnd-picoprobe)
+1. 🎉 Merged PR [#2584](https://github.com/OpenZWave/open-zwave/pull/2584) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+2. 💪 Opened PR [#5](https://github.com/stacksmashing/pdnd-picoprobe/pull/5) in [stacksmashing/pdnd-picoprobe](https://github.com/stacksmashing/pdnd-picoprobe)
+3. ❗️ Opened issue [#4](https://github.com/stacksmashing/pdnd-picoprobe/issues/4) in [stacksmashing/pdnd-picoprobe](https://github.com/stacksmashing/pdnd-picoprobe)
+4. ❗️ Closed issue [#2](https://github.com/stacksmashing/pdnd-picoprobe/issues/2) in [stacksmashing/pdnd-picoprobe](https://github.com/stacksmashing/pdnd-picoprobe)
 5. 🗣 Commented on [#2](https://github.com/stacksmashing/pdnd-picoprobe/issues/2) in [stacksmashing/pdnd-picoprobe](https://github.com/stacksmashing/pdnd-picoprobe)
 <!--END_SECTION:activity-->
 
