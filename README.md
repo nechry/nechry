@@ -51,7 +51,7 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#126](https://github.com/jeedom/plugin-blea/pull/126) in [jeedom/plugin-blea](https://github.com/jeedom/plugin-blea)
+1. 🎉 Merged PR [#2638](https://github.com/OpenZWave/open-zwave/pull/2638) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
 2. ❗️ Opened issue [#1](https://github.com/DaniMartinezIT/node-red-contrib-servicenow-table-api/issues/1) in [DaniMartinezIT/node-red-contrib-servicenow-table-api](https://github.com/DaniMartinezIT/node-red-contrib-servicenow-table-api)
 3. 🗣 Commented on [#5713](https://github.com/thingsboard/thingsboard/issues/5713) in [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
 4. 🗣 Commented on [#5713](https://github.com/thingsboard/thingsboard/issues/5713) in [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
