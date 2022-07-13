@@ -13,7 +13,14 @@ By nature I like to share, that's why I got involved in several open source proj
 - I previously developed and maintained the [plugin-openzwave][plugin-openzwave] for jeedom gateways.
 - I also helped and maintained [python-openzwave][python-openzwave] for a while.
 
-If you find my work useful, consider supporting me as a [sponsor][sponsor] Thank you in advance!
+### Sponsor nechry on GitHub
+
+If you find my work useful, consider supporting me as a sponsor
+
+[![Github Sponsorship](assets/GitHub_Sponsorship_button.png)][sponsor]
+
+Thank you in advance!
+
 
 At last, I share content on my private Blog, [Nechry home automation][website], it's a home automation blog that mainly deals with the Z-Wave protocol and good practices.
 
