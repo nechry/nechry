@@ -39,10 +39,8 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 
 ### Connect with me
 
-[<img align="left" alt="nechry-automation" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="nechry | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jfauger | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nechry | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- [twitter][twitter]
+- [linkedin][linkedin]
 
 [website]: https://nechry-automation.ch
 [twitter]: https://twitter.com/nechry
@@ -52,8 +50,6 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 [Openzwave]: https://github.com/OpenZWave
 [plugin-openzwave]: https://github.com/jeedom/plugin-openzwave
 [python-openzwave]: https://github.com/OpenZWave/python-openzwave
-
-<br/>
 
 ## Recent Github Activity
 
