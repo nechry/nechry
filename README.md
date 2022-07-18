@@ -55,8 +55,8 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/VolosR/SpaceWars/issues/1) in [VolosR/SpaceWars](https://github.com/VolosR/SpaceWars)
-2. 🎉 Merged PR [#2638](https://github.com/OpenZWave/open-zwave/pull/2638) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-3. 🗣 Commented on [#5713](https://github.com/thingsboard/thingsboard/issues/5713) in [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
+2. 🗣 Commented on [#1](https://github.com/VolosR/SpaceWars/issues/1) in [VolosR/SpaceWars](https://github.com/VolosR/SpaceWars)
+3. 🎉 Merged PR [#2638](https://github.com/OpenZWave/open-zwave/pull/2638) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
 4. 🗣 Commented on [#5713](https://github.com/thingsboard/thingsboard/issues/5713) in [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
 5. 🎉 Merged PR [#2620](https://github.com/OpenZWave/open-zwave/pull/2620) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
 <!--END_SECTION:activity-->
