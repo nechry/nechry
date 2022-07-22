@@ -54,11 +54,11 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/VolosR/SpaceWars/issues/1) in [VolosR/SpaceWars](https://github.com/VolosR/SpaceWars)
+1. 🗣 Commented on [#657](https://github.com/AlexandreRouma/SDRPlusPlus/issues/657) in [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
 2. 🗣 Commented on [#1](https://github.com/VolosR/SpaceWars/issues/1) in [VolosR/SpaceWars](https://github.com/VolosR/SpaceWars)
 3. 🗣 Commented on [#1](https://github.com/VolosR/SpaceWars/issues/1) in [VolosR/SpaceWars](https://github.com/VolosR/SpaceWars)
 4. 🗣 Commented on [#1](https://github.com/VolosR/SpaceWars/issues/1) in [VolosR/SpaceWars](https://github.com/VolosR/SpaceWars)
-5. 🎉 Merged PR [#2638](https://github.com/OpenZWave/open-zwave/pull/2638) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+5. 🗣 Commented on [#1](https://github.com/VolosR/SpaceWars/issues/1) in [VolosR/SpaceWars](https://github.com/VolosR/SpaceWars)
 <!--END_SECTION:activity-->
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nechry&show_icons=true&hide_border=true&count_private=true" />
