@@ -54,11 +54,11 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2642](https://github.com/OpenZWave/open-zwave/pull/2642) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-2. 💪 Opened PR [#2](https://github.com/iml885203/HA-FanSpeedControl/pull/2) in [iml885203/HA-FanSpeedControl](https://github.com/iml885203/HA-FanSpeedControl)
-3. 🗣 Commented on [#657](https://github.com/AlexandreRouma/SDRPlusPlus/issues/657) in [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
+1. 💪 Opened PR [#4895](https://github.com/zwave-js/node-zwave-js/pull/4895) in [zwave-js/node-zwave-js](https://github.com/zwave-js/node-zwave-js)
+2. 🎉 Merged PR [#2642](https://github.com/OpenZWave/open-zwave/pull/2642) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+3. 💪 Opened PR [#2](https://github.com/iml885203/HA-FanSpeedControl/pull/2) in [iml885203/HA-FanSpeedControl](https://github.com/iml885203/HA-FanSpeedControl)
 4. 🗣 Commented on [#657](https://github.com/AlexandreRouma/SDRPlusPlus/issues/657) in [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
-5. 🗣 Commented on [#1](https://github.com/VolosR/SpaceWars/issues/1) in [VolosR/SpaceWars](https://github.com/VolosR/SpaceWars)
+5. 🗣 Commented on [#657](https://github.com/AlexandreRouma/SDRPlusPlus/issues/657) in [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
 <!--END_SECTION:activity-->
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nechry&show_icons=true&hide_border=true&count_private=true" />
