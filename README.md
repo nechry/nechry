@@ -54,9 +54,9 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/twrecked/hass-virtual/pull/35) in [twrecked/hass-virtual](https://github.com/twrecked/hass-virtual)
-2. 🗣 Commented on [#76434](https://github.com/home-assistant/core/issues/76434) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 🗣 Commented on [#4895](https://github.com/zwave-js/node-zwave-js/issues/4895) in [zwave-js/node-zwave-js](https://github.com/zwave-js/node-zwave-js)
+1. 🗣 Commented on [#2](https://github.com/kireque/esphome_nebula_light/issues/2) in [kireque/esphome_nebula_light](https://github.com/kireque/esphome_nebula_light)
+2. 💪 Opened PR [#35](https://github.com/twrecked/hass-virtual/pull/35) in [twrecked/hass-virtual](https://github.com/twrecked/hass-virtual)
+3. 🗣 Commented on [#76434](https://github.com/home-assistant/core/issues/76434) in [home-assistant/core](https://github.com/home-assistant/core)
 4. 🗣 Commented on [#4895](https://github.com/zwave-js/node-zwave-js/issues/4895) in [zwave-js/node-zwave-js](https://github.com/zwave-js/node-zwave-js)
 5. 🗣 Commented on [#4895](https://github.com/zwave-js/node-zwave-js/issues/4895) in [zwave-js/node-zwave-js](https://github.com/zwave-js/node-zwave-js)
 <!--END_SECTION:activity-->
