@@ -54,11 +54,11 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2644](https://github.com/OpenZWave/open-zwave/issues/2644) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-2. ❗️ Opened issue [#2646](https://github.com/OpenZWave/open-zwave/issues/2646) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+1. ❌ Closed PR [#126](https://github.com/jeedom/plugin-blea/pull/126) in [jeedom/plugin-blea](https://github.com/jeedom/plugin-blea)
+2. 🗣 Commented on [#126](https://github.com/jeedom/plugin-blea/issues/126) in [jeedom/plugin-blea](https://github.com/jeedom/plugin-blea)
 3. 🗣 Commented on [#2644](https://github.com/OpenZWave/open-zwave/issues/2644) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-4. 🗣 Commented on [#1](https://github.com/nechry/remocon2mqtt/issues/1) in [nechry/remocon2mqtt](https://github.com/nechry/remocon2mqtt)
-5. 🗣 Commented on [#2](https://github.com/kireque/esphome_nebula_light/issues/2) in [kireque/esphome_nebula_light](https://github.com/kireque/esphome_nebula_light)
+4. ❗️ Opened issue [#2646](https://github.com/OpenZWave/open-zwave/issues/2646) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+5. 🗣 Commented on [#2644](https://github.com/OpenZWave/open-zwave/issues/2644) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
 <!--END_SECTION:activity-->
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nechry&show_icons=true&hide_border=true&count_private=true" />
