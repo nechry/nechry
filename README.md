@@ -54,11 +54,11 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/cifertech/nRFBox/pull/3) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
-2. 💪 Opened PR [#2](https://github.com/cifertech/nRFBox/pull/2) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
-3. ❌ Closed PR [#126](https://github.com/jeedom/plugin-blea/pull/126) in [jeedom/plugin-blea](https://github.com/jeedom/plugin-blea)
-4. 🗣 Commented on [#126](https://github.com/jeedom/plugin-blea/issues/126) in [jeedom/plugin-blea](https://github.com/jeedom/plugin-blea)
-5. 🗣 Commented on [#2644](https://github.com/OpenZWave/open-zwave/issues/2644) in [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+1. 💪 Opened PR [#4](https://github.com/cifertech/nRFBox/pull/4) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
+2. 💪 Opened PR [#3](https://github.com/cifertech/nRFBox/pull/3) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
+3. 💪 Opened PR [#2](https://github.com/cifertech/nRFBox/pull/2) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
+4. ❌ Closed PR [#126](https://github.com/jeedom/plugin-blea/pull/126) in [jeedom/plugin-blea](https://github.com/jeedom/plugin-blea)
+5. 🗣 Commented on [#126](https://github.com/jeedom/plugin-blea/issues/126) in [jeedom/plugin-blea](https://github.com/jeedom/plugin-blea)
 <!--END_SECTION:activity-->
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nechry&show_icons=true&hide_border=true&count_private=true" />
