@@ -54,11 +54,11 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/cifertech/nRFBox/pull/4) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
-2. 💪 Opened PR [#3](https://github.com/cifertech/nRFBox/pull/3) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
-3. 💪 Opened PR [#2](https://github.com/cifertech/nRFBox/pull/2) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
-4. ❌ Closed PR [#126](https://github.com/jeedom/plugin-blea/pull/126) in [jeedom/plugin-blea](https://github.com/jeedom/plugin-blea)
-5. 🗣 Commented on [#126](https://github.com/jeedom/plugin-blea/issues/126) in [jeedom/plugin-blea](https://github.com/jeedom/plugin-blea)
+1. ❌ Closed PR [#70](https://github.com/dummylabs/thewatchman/pull/70) in [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman)
+2. 🗣 Commented on [#70](https://github.com/dummylabs/thewatchman/issues/70) in [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman)
+3. 💪 Opened PR [#70](https://github.com/dummylabs/thewatchman/pull/70) in [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman)
+4. 💪 Opened PR [#4](https://github.com/cifertech/nRFBox/pull/4) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
+5. 💪 Opened PR [#3](https://github.com/cifertech/nRFBox/pull/3) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
 <!--END_SECTION:activity-->
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nechry&show_icons=true&hide_border=true&count_private=true" />
