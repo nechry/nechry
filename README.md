@@ -1,4 +1,7 @@
-# About me 👋
+<h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
+<a name="logo" href="https://nechry-automation.ch"><img align="center" src="./assets/header_nechry.png" alt="Nechry Automation Blog" style="width:100%;height:100%"/></a>
+  <br /><br /><strong>About me 👋</strong>
+</h1>
 
 ## Hi there, I'm Jean-François - aka [nechry][website]
 
