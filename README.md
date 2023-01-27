@@ -4,6 +4,8 @@
 
 [![Website](https://img.shields.io/website?label=nechry-automation.ch&style=for-the-badge&url=https%3A%2F%2Fnechry-automation.ch)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/nechry?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnechry&screen_name=nechry)
+<a target="_blank" href="https://www.linkedin.com/in/jfauger/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 I live in Switzerland and I am a full-time IoT solution engineer and passionate about home automation on my free time.
 
