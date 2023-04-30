@@ -59,8 +59,8 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#70](https://github.com/dummylabs/thewatchman/pull/70) in [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman)
-2. 🗣 Commented on [#70](https://github.com/dummylabs/thewatchman/issues/70) in [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman)
+1. 🗣 Commented on [#2](https://github.com/nechry/remocon2mqtt/issues/2) in [nechry/remocon2mqtt](https://github.com/nechry/remocon2mqtt)
+2. 🗣 Commented on [#2](https://github.com/nechry/remocon2mqtt/issues/2) in [nechry/remocon2mqtt](https://github.com/nechry/remocon2mqtt)
 3. 💪 Opened PR [#70](https://github.com/dummylabs/thewatchman/pull/70) in [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman)
 4. 💪 Opened PR [#4](https://github.com/cifertech/nRFBox/pull/4) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
 5. 💪 Opened PR [#3](https://github.com/cifertech/nRFBox/pull/3) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
