@@ -59,11 +59,11 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nechry/elco-remocon-net-appdaemon/pull/1) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
-2. 🗣 Commented on [#2](https://github.com/nechry/remocon2mqtt/issues/2) in [nechry/remocon2mqtt](https://github.com/nechry/remocon2mqtt)
-3. 🗣 Commented on [#2](https://github.com/nechry/remocon2mqtt/issues/2) in [nechry/remocon2mqtt](https://github.com/nechry/remocon2mqtt)
-4. 💪 Opened PR [#4](https://github.com/cifertech/nRFBox/pull/4) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
-5. 💪 Opened PR [#3](https://github.com/cifertech/nRFBox/pull/3) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
+1. 💪 Opened PR [#1927](https://github.com/hacs/default/pull/1927) in [hacs/default](https://github.com/hacs/default)
+2. 💪 Opened PR [#1926](https://github.com/hacs/default/pull/1926) in [hacs/default](https://github.com/hacs/default)
+3. 🎉 Merged PR [#1](https://github.com/nechry/elco-remocon-net-appdaemon/pull/1) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
+4. 🗣 Commented on [#2](https://github.com/nechry/remocon2mqtt/issues/2) in [nechry/remocon2mqtt](https://github.com/nechry/remocon2mqtt)
+5. 🗣 Commented on [#2](https://github.com/nechry/remocon2mqtt/issues/2) in [nechry/remocon2mqtt](https://github.com/nechry/remocon2mqtt)
 <!--END_SECTION:activity-->
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nechry&show_icons=true&hide_border=true&count_private=true" />
