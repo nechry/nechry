@@ -60,10 +60,10 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/nechry/elco-remocon-net-appdaemon/issues/3) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
-2. 🗣 Commented on [#2](https://github.com/nechry/elco-remocon-net-appdaemon/issues/2) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
+2. 🗣 Commented on [#3](https://github.com/nechry/elco-remocon-net-appdaemon/issues/3) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
 3. 🗣 Commented on [#2](https://github.com/nechry/elco-remocon-net-appdaemon/issues/2) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
-4. 💪 Opened PR [#1927](https://github.com/hacs/default/pull/1927) in [hacs/default](https://github.com/hacs/default)
-5. 💪 Opened PR [#1926](https://github.com/hacs/default/pull/1926) in [hacs/default](https://github.com/hacs/default)
+4. 🗣 Commented on [#2](https://github.com/nechry/elco-remocon-net-appdaemon/issues/2) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
+5. 💪 Opened PR [#1927](https://github.com/hacs/default/pull/1927) in [hacs/default](https://github.com/hacs/default)
 <!--END_SECTION:activity-->
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nechry&show_icons=true&hide_border=true&count_private=true" />
