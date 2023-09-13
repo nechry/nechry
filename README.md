@@ -59,10 +59,10 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99736](https://github.com/home-assistant/core/issues/99736) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🗣 Commented on [#99736](https://github.com/home-assistant/core/issues/99736) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 🗣 Commented on [#3](https://github.com/nechry/elco-remocon-net-appdaemon/issues/3) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
-4. 🗣 Commented on [#3](https://github.com/nechry/elco-remocon-net-appdaemon/issues/3) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
+1. 🎉 Merged PR [#2](https://github.com/spie-ics-ag/meraki2azure_ad/pull/2) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)
+2. 💪 Opened PR [#2](https://github.com/spie-ics-ag/meraki2azure_ad/pull/2) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)
+3. 🗣 Commented on [#99736](https://github.com/home-assistant/core/issues/99736) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#99736](https://github.com/home-assistant/core/issues/99736) in [home-assistant/core](https://github.com/home-assistant/core)
 5. 🗣 Commented on [#3](https://github.com/nechry/elco-remocon-net-appdaemon/issues/3) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
 <!--END_SECTION:activity-->
 
