@@ -59,11 +59,11 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/spie-ics-ag/meraki2azure_ad/pull/10) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)
-2. 🗣 Commented on [#10](https://github.com/spie-ics-ag/meraki2azure_ad/issues/10) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)
-3. 🎉 Merged PR [#8](https://github.com/spie-ics-ag/meraki2azure_ad/pull/8) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)
-4. 🗣 Commented on [#8](https://github.com/spie-ics-ag/meraki2azure_ad/issues/8) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)
-5. 🎉 Merged PR [#7](https://github.com/spie-ics-ag/meraki2azure_ad/pull/7) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)
+1. 🗣 Commented on [#584](https://github.com/hassio-addons/addon-zwave-js-ui/issues/584) in [hassio-addons/addon-zwave-js-ui](https://github.com/hassio-addons/addon-zwave-js-ui)
+2. 🎉 Merged PR [#10](https://github.com/spie-ics-ag/meraki2azure_ad/pull/10) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)
+3. 🗣 Commented on [#10](https://github.com/spie-ics-ag/meraki2azure_ad/issues/10) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)
+4. 🎉 Merged PR [#8](https://github.com/spie-ics-ag/meraki2azure_ad/pull/8) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)
+5. 🗣 Commented on [#8](https://github.com/spie-ics-ag/meraki2azure_ad/issues/8) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)
 <!--END_SECTION:activity-->
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nechry&show_icons=true&hide_border=true&count_private=true" />
