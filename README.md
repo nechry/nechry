@@ -59,11 +59,11 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/madchap/energiapro_gas_consumption/issues/11) in [madchap/energiapro_gas_consumption](https://github.com/madchap/energiapro_gas_consumption)
-2. 🗣 Commented on [#6](https://github.com/nechry/elco-remocon-net-appdaemon/issues/6) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
-3. ❌ Closed PR [#6](https://github.com/nechry/elco-remocon-net-appdaemon/pull/6) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
-4. ❗️ Closed issue [#3](https://github.com/nechry/elco-remocon-net-appdaemon/issues/3) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
-5. 🗣 Commented on [#3](https://github.com/nechry/elco-remocon-net-appdaemon/issues/3) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
+1. 🗣 Commented on [#11](https://github.com/madchap/energiapro_gas_consumption/issues/11) in [madchap/energiapro_gas_consumption](https://github.com/madchap/energiapro_gas_consumption)
+2. ❗️ Opened issue [#11](https://github.com/madchap/energiapro_gas_consumption/issues/11) in [madchap/energiapro_gas_consumption](https://github.com/madchap/energiapro_gas_consumption)
+3. 🗣 Commented on [#6](https://github.com/nechry/elco-remocon-net-appdaemon/issues/6) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
+4. ❌ Closed PR [#6](https://github.com/nechry/elco-remocon-net-appdaemon/pull/6) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
+5. ❗️ Closed issue [#3](https://github.com/nechry/elco-remocon-net-appdaemon/issues/3) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)
 <!--END_SECTION:activity-->
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nechry&show_icons=true&hide_border=true&count_private=true" />
