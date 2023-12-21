@@ -58,9 +58,9 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 <h2 align="center">💻 Languages and Tools 💻</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <div>
     <img src="https://skillicons.dev/icons?i=github,azure,arduino,docker,nodejs,ts,c,dotnet,bash,vscode,visualstudio,cloudflare,express,grafana,html,linux,mongodb,powershell,prometheus,raspberrypi" />
-  </a>
+  </div>
 </p>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
