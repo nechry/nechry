@@ -5,7 +5,6 @@
 
 ## Hi there, I'm Jean-François - aka [nechry][website]
 
-[![Website](https://img.shields.io/website?label=nechry-automation.ch&style=for-the-badge&url=https%3A%2F%2Fnechry-automation.ch)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/nechry?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnechry&screen_name=nechry)
 <a target="_blank" href="https://www.linkedin.com/in/jfauger/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -28,17 +27,6 @@ Thank you in advance!
 
 
 At last, I share content on my private Blog, [Nechry home automation][website], it's a home automation blog that mainly deals with the Z-Wave protocol and good practices.
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Bons plans domotique](https://nechry-automation.ch/2018/06/11/bons-plans-du-jour-2-2-2/)
-- [Amazon Echo à -50%](https://nechry-automation.ch/2018/06/11/amazon-echo-a-50/)
-- [API RESTful du plugin ZWave](https://nechry-automation.ch/2018/06/07/api-restful/)
-- [Domotiser une toile de store extérieur](https://nechry-automation.ch/2018/05/30/domotiser-toile-store/)
-- [Exploiter la classe de commande Scene Activation](https://nechry-automation.ch/2018/05/28/exploiter-cc-scene-activation/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...][website]
 
 ---
 
@@ -66,15 +54,44 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 5. 🗣 Commented on [#11](https://github.com/madchap/energiapro_gas_consumption/issues/11) in [madchap/energiapro_gas_consumption](https://github.com/madchap/energiapro_gas_consumption)
 <!--END_SECTION:activity-->
 
-<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nechry&show_icons=true&hide_border=true&count_private=true" />
 
-<img src="https://gpvc.arturio.dev/nechry" alt="Viewers"/>
-<br>
-
-### Languages and Tools
+<h2 align="center">💻 Languages and Tools 💻</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,azure,arduino,docker,nodejs,ts,c,dotnet,bash,vscode,visualstudio,cloudflare,express,grafana,html,linux,mongodb,powershell,prometheus,raspberrypi" />
   </a>
 </p>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nechry&show_icons=true&hide_border=true&count_private=true&theme=blue-green" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nechry&theme=blue-green" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nechry&theme=blue-green" />
+    </a>
+  </div>
+  <br>
+</p>
+<div align=center>
+<img src="https://github-profile-trophy.vercel.app/?username=nechry&theme=onedark&no-frame=true&row=1&margin-w=36" />
+</div>
+<div align=center>
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</div>
+
+<hr>
+
+
+
+
+
