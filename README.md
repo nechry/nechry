@@ -68,10 +68,10 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nechry&show_icons=true&hide_border=true&count_private=true&theme=blue-green" />
+      <img align="left" width=390 alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nechry&show_icons=true&hide_border=true&count_private=true&theme=blue-green" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nechry&theme=blue-green" />
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nechry&theme=blue-green" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
