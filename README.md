@@ -47,6 +47,11 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/Fattoresaimon/I2CEncoderV2.1/pull/1) in [Fattoresaimon/I2CEncoderV2.1](https://github.com/Fattoresaimon/I2CEncoderV2.1)
+2. ❌ Closed PR [#3](https://github.com/byfeel/Notifheure/pull/3) in [byfeel/Notifheure](https://github.com/byfeel/Notifheure)
+3. ❌ Closed PR [#5](https://github.com/stacksmashing/pdnd-picoprobe/pull/5) in [stacksmashing/pdnd-picoprobe](https://github.com/stacksmashing/pdnd-picoprobe)
+4. ❌ Closed PR [#4](https://github.com/cifertech/nRFBox/pull/4) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
+5. ❌ Closed PR [#2](https://github.com/cifertech/nRFBox/pull/2) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
 <!--END_SECTION:activity-->
 
 
