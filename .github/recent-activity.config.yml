@@ -9,7 +9,7 @@ settings:
   date:
     timezone: "GMT+01:00"
     text: "Last Updated: {DATE}"
-    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+    format: "dddd, mmmm dS, yyyy, HH:MM"
   commit_name: "readme-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
   line_prefix: "{NUM}. "
