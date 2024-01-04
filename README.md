@@ -54,6 +54,12 @@ At last, I share content on my private Blog, [Nechry home automation][website], 
 5. ❌ Closed PR [#2](https://github.com/cifertech/nRFBox/pull/2) in [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
 <!--END_SECTION:activity-->
 
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
 
 <h2 align="center">💻 Languages and Tools 💻</h2>
 
