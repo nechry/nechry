@@ -25,9 +25,6 @@ If you find my work useful, consider supporting me as a sponsor
 
 Thank you in advance!
 
-
-At last, I share content on my private Blog, [Nechry home automation][website], it's a home automation blog that mainly deals with the Z-Wave protocol and good practices.
-
 ---
 
 ### Connect with me
