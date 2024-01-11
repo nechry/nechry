@@ -44,15 +44,15 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 11th, 2024, 20:33
+Last Updated: Thursday, January 11th, 2024, 21:05
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware)<br>
-2. ⭐ Starred [NightRang3r/P4wnP1-A.L.O.A.-Payloads](https://github.com/NightRang3r/P4wnP1-A.L.O.A.-Payloads)<br>
-3. 🔱 Forked [nechry/esphome_nebula_light](https://github.com/nechry/esphome_nebula_light) from [fonix232/esphome_nebula_light](https://github.com/fonix232/esphome_nebula_light)<br>
-4. ⭐ Starred [M4GNV5/esphome-SK20-Nebula-Light](https://github.com/M4GNV5/esphome-SK20-Nebula-Light)<br>
-5. ❗️ Opened issue [#375](https://github.com/andrew-codechimp/HA-Battery-Notes/issues/375) in [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes)<br>
+1. 🔱 Forked [nechry/HA-Battery-Notes](https://github.com/nechry/HA-Battery-Notes) from [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes)<br>
+2. ⭐ Starred [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware)<br>
+3. ⭐ Starred [NightRang3r/P4wnP1-A.L.O.A.-Payloads](https://github.com/NightRang3r/P4wnP1-A.L.O.A.-Payloads)<br>
+4. 🔱 Forked [nechry/esphome_nebula_light](https://github.com/nechry/esphome_nebula_light) from [fonix232/esphome_nebula_light](https://github.com/fonix232/esphome_nebula_light)<br>
+5. ⭐ Starred [M4GNV5/esphome-SK20-Nebula-Light](https://github.com/M4GNV5/esphome-SK20-Nebula-Light)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
