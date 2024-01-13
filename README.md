@@ -44,15 +44,15 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 13th, 2024, 11:05
+Last Updated: Saturday, January 13th, 2024, 11:34
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#463](https://github.com/andrew-codechimp/HA-Battery-Notes/pull/463) in [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes)<br>
-2. ⬆️ Pushed 1 commit(s) to [nechry/HA-Battery-Notes](https://github.com/nechry/HA-Battery-Notes)<br>
-3. 🔱 Forked [nechry/HA-Battery-Notes](https://github.com/nechry/HA-Battery-Notes) from [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes)<br>
-4. ⭐ Starred [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware)<br>
-5. ⭐ Starred [NightRang3r/P4wnP1-A.L.O.A.-Payloads](https://github.com/NightRang3r/P4wnP1-A.L.O.A.-Payloads)<br>
+1. ⭐ Starred [danielmiessler/ExtractWisdom](https://github.com/danielmiessler/ExtractWisdom)<br>
+2. ⭐ Starred [danielmiessler/fabric](https://github.com/danielmiessler/fabric)<br>
+3. 💪 Opened PR [#463](https://github.com/andrew-codechimp/HA-Battery-Notes/pull/463) in [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes)<br>
+4. ⬆️ Pushed 1 commit(s) to [nechry/HA-Battery-Notes](https://github.com/nechry/HA-Battery-Notes)<br>
+5. 🔱 Forked [nechry/HA-Battery-Notes](https://github.com/nechry/HA-Battery-Notes) from [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
