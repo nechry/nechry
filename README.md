@@ -44,15 +44,15 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 24th, 2024, 14:33
+Last Updated: Wednesday, January 24th, 2024, 15:05
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nechry/gnuradio-projects](https://github.com/nechry/gnuradio-projects)<br>
-2. ⬆️ Pushed 1 commit(s) to [nechry/gnuradio-projects](https://github.com/nechry/gnuradio-projects)<br>
-3. ⬆️ Pushed 1 commit(s) to [nechry/gnuradio-projects](https://github.com/nechry/gnuradio-projects)<br>
-4. ⬆️ Pushed 1 commit(s) to [nechry/gnuradio-projects](https://github.com/nechry/gnuradio-projects)<br>
-5. ⭐ Starred [gallicchio/learnSDR](https://github.com/gallicchio/learnSDR)<br>
+1. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+2. 🎉 Merged PR [#29](https://github.com/spie-ics-ag/meraki2azure_ad/pull/29) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+3. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. 🎉 Merged PR [#30](https://github.com/spie-ics-ag/meraki2azure_ad/pull/30) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+5. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
