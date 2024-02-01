@@ -44,13 +44,13 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 1st, 2024, 22:33
+Last Updated: Thursday, February 1st, 2024, 23:05
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [arag0re/fz-yuricable-pro-max](https://github.com/arag0re/fz-yuricable-pro-max)<br>
-2. ⭐ Starred [pnp/List-Formatting](https://github.com/pnp/List-Formatting)<br>
-3. ⬆️ Pushed 1 commit(s) to [nechry/bWAPP-Docker](https://github.com/nechry/bWAPP-Docker)<br>
+1. ⭐ Starred [gbonacini/arpfuzzer](https://github.com/gbonacini/arpfuzzer)<br>
+2. ⭐ Starred [arag0re/fz-yuricable-pro-max](https://github.com/arag0re/fz-yuricable-pro-max)<br>
+3. ⭐ Starred [pnp/List-Formatting](https://github.com/pnp/List-Formatting)<br>
 4. ⬆️ Pushed 1 commit(s) to [nechry/bWAPP-Docker](https://github.com/nechry/bWAPP-Docker)<br>
 5. ⬆️ Pushed 1 commit(s) to [nechry/bWAPP-Docker](https://github.com/nechry/bWAPP-Docker)<br>
 <!--RECENT_ACTIVITY:end-->
