@@ -44,15 +44,15 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 16th, 2024, 09:34
+Last Updated: Friday, February 16th, 2024, 10:04
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/sudo](https://github.com/microsoft/sudo)<br>
-2. ⭐ Starred [Zerg00s/power-bi-backgrounds](https://github.com/Zerg00s/power-bi-backgrounds)<br>
-3. 💪 Opened PR [#909](https://github.com/andrew-codechimp/HA-Battery-Notes/pull/909) in [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes)<br>
-4. ⬆️ Pushed 1 commit(s) to [nechry/HA-Battery-Notes](https://github.com/nechry/HA-Battery-Notes)<br>
-5. ⬆️ Pushed 421 commit(s) to [nechry/HA-Battery-Notes](https://github.com/nechry/HA-Battery-Notes)<br>
+1. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+2. 🎉 Merged PR [#37](https://github.com/spie-ics-ag/meraki2azure_ad/pull/37) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+3. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. 🎉 Merged PR [#33](https://github.com/spie-ics-ag/meraki2azure_ad/pull/33) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+5. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
