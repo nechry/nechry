@@ -44,15 +44,15 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 15th, 2024, 13:39
+Last Updated: Friday, March 15th, 2024, 14:05
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng)<br>
-2. ⭐ Starred [attackercan/regexp-security-cheatsheet](https://github.com/attackercan/regexp-security-cheatsheet)<br>
-3. ⭐ Starred [RocketGod-git/PDW-LOG-STREAMER](https://github.com/RocketGod-git/PDW-LOG-STREAMER)<br>
-4. ⭐ Starred [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>
-5. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. ⭐ Starred [atomic14/esp32-s3-pinouts](https://github.com/atomic14/esp32-s3-pinouts)<br>
+2. ⭐ Starred [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng)<br>
+3. ⭐ Starred [attackercan/regexp-security-cheatsheet](https://github.com/attackercan/regexp-security-cheatsheet)<br>
+4. ⭐ Starred [RocketGod-git/PDW-LOG-STREAMER](https://github.com/RocketGod-git/PDW-LOG-STREAMER)<br>
+5. ⭐ Starred [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
