@@ -44,15 +44,15 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 16th, 2024, 21:34
+Last Updated: Saturday, March 16th, 2024, 22:04
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [atomic14/esp32-s3-pinouts](https://github.com/atomic14/esp32-s3-pinouts)<br>
-2. ⭐ Starred [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng)<br>
-3. ⭐ Starred [attackercan/regexp-security-cheatsheet](https://github.com/attackercan/regexp-security-cheatsheet)<br>
-4. ⭐ Starred [RocketGod-git/PDW-LOG-STREAMER](https://github.com/RocketGod-git/PDW-LOG-STREAMER)<br>
-5. ⭐ Starred [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>
+1. ⭐ Starred [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf)<br>
+2. ⭐ Starred [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks)<br>
+3. ⭐ Starred [atomic14/esp32-s3-pinouts](https://github.com/atomic14/esp32-s3-pinouts)<br>
+4. ⭐ Starred [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng)<br>
+5. ⭐ Starred [attackercan/regexp-security-cheatsheet](https://github.com/attackercan/regexp-security-cheatsheet)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
