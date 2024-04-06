@@ -44,15 +44,15 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 6th, 2024, 12:33
+Last Updated: Saturday, April 6th, 2024, 13:06
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf)<br>
-2. ⭐ Starred [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks)<br>
-3. ⭐ Starred [atomic14/esp32-s3-pinouts](https://github.com/atomic14/esp32-s3-pinouts)<br>
-4. ⭐ Starred [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng)<br>
-5. ⭐ Starred [attackercan/regexp-security-cheatsheet](https://github.com/attackercan/regexp-security-cheatsheet)<br>
+1. ⭐ Starred [cifertech/wardriver3000](https://github.com/cifertech/wardriver3000)<br>
+2. ⭐ Starred [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf)<br>
+3. ⭐ Starred [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks)<br>
+4. ⭐ Starred [atomic14/esp32-s3-pinouts](https://github.com/atomic14/esp32-s3-pinouts)<br>
+5. ⭐ Starred [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
