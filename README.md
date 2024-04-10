@@ -44,15 +44,15 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 10th, 2024, 09:06
+Last Updated: Wednesday, April 10th, 2024, 09:34
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cifertech/wardriver3000](https://github.com/cifertech/wardriver3000)<br>
-2. ⭐ Starred [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf)<br>
-3. ⭐ Starred [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks)<br>
-4. ⭐ Starred [atomic14/esp32-s3-pinouts](https://github.com/atomic14/esp32-s3-pinouts)<br>
-5. ⭐ Starred [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng)<br>
+1. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+2. 🎉 Merged PR [#43](https://github.com/spie-ics-ag/meraki2azure_ad/pull/43) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+3. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. 🎉 Merged PR [#42](https://github.com/spie-ics-ag/meraki2azure_ad/pull/42) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+5. ❌ Closed PR [#38](https://github.com/spie-ics-ag/meraki2azure_ad/pull/38) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
