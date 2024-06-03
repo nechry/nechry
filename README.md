@@ -44,15 +44,15 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 3rd, 2024, 23:05
+Last Updated: Monday, June 3rd, 2024, 23:34
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#64](https://github.com/spie-ics-ag/meraki2azure_ad/pull/64) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-2. ⬆️ Pushed 1 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-3. 💪 Opened PR [#61](https://github.com/spie-ics-ag/meraki2azure_ad/pull/61) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. ⭐ Starred [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt)<br>
+2. ⭐ Starred [huntergregal/mimipenguin](https://github.com/huntergregal/mimipenguin)<br>
+3. 💪 Opened PR [#64](https://github.com/spie-ics-ag/meraki2azure_ad/pull/64) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 4. ⬆️ Pushed 1 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-5. ⬆️ Pushed 1 commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+5. 💪 Opened PR [#61](https://github.com/spie-ics-ag/meraki2azure_ad/pull/61) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
