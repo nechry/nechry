@@ -44,14 +44,14 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 18th, 2024, 19:36
+Last Updated: Thursday, July 18th, 2024, 20:05
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-2. 🎉 Merged PR [#93](https://github.com/spie-ics-ag/meraki2azure_ad/pull/93) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-3. 💪 Opened PR [#93](https://github.com/spie-ics-ag/meraki2azure_ad/pull/93) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-4. 🎉 Merged PR [#92](https://github.com/spie-ics-ag/meraki2azure_ad/pull/92) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+2. 🎉 Merged PR [#91](https://github.com/spie-ics-ag/meraki2azure_ad/pull/91) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+3. 🎉 Merged PR [#90](https://github.com/spie-ics-ag/meraki2azure_ad/pull/90) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 5. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 
