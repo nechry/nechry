@@ -44,14 +44,14 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 18th, 2024, 21:05
+Last Updated: Thursday, July 18th, 2024, 21:33
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
-2. ⬆️ Pushed 2 commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
-3. 🎉 Merged PR [#16](https://github.com/nechry/elco-remocon-net-appdaemon/pull/16) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
-4. 💪 Opened PR [#16](https://github.com/nechry/elco-remocon-net-appdaemon/pull/16) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+1. ❌ Closed PR [#17](https://github.com/nechry/elco-remocon-net-appdaemon/pull/17) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+2. ⬆️ Pushed 1 commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+3. 💪 Opened PR [#17](https://github.com/nechry/elco-remocon-net-appdaemon/pull/17) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+4. ⬆️ Pushed 1 commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
 5. ⬆️ Pushed 1 commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
 <!--RECENT_ACTIVITY:end-->
 
