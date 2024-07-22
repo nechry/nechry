@@ -44,15 +44,15 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 22nd, 2024, 23:05
+Last Updated: Monday, July 22nd, 2024, 23:34
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#17](https://github.com/nechry/elco-remocon-net-appdaemon/pull/17) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
-2. ⬆️ Pushed 1 commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
-3. 💪 Opened PR [#17](https://github.com/nechry/elco-remocon-net-appdaemon/pull/17) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+1. 🔱 Forked [nechry/itech_usb_serial](https://github.com/nechry/itech_usb_serial) from [Blinkinlabs/itech_usb_serial](https://github.com/Blinkinlabs/itech_usb_serial)<br>
+2. ⭐ Starred [Blinkinlabs/itech_usb_serial](https://github.com/Blinkinlabs/itech_usb_serial)<br>
+3. ❌ Closed PR [#17](https://github.com/nechry/elco-remocon-net-appdaemon/pull/17) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
 4. ⬆️ Pushed 1 commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
-5. ⬆️ Pushed 1 commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+5. 💪 Opened PR [#17](https://github.com/nechry/elco-remocon-net-appdaemon/pull/17) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
