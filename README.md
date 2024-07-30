@@ -44,15 +44,15 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 30th, 2024, 15:33
+Last Updated: Tuesday, July 30th, 2024, 16:05
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)<br>
-2. 🔱 Forked [nechry/itech_usb_serial](https://github.com/nechry/itech_usb_serial) from [Blinkinlabs/itech_usb_serial](https://github.com/Blinkinlabs/itech_usb_serial)<br>
-3. ⭐ Starred [Blinkinlabs/itech_usb_serial](https://github.com/Blinkinlabs/itech_usb_serial)<br>
-4. ❌ Closed PR [#17](https://github.com/nechry/elco-remocon-net-appdaemon/pull/17) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
-5. ⬆️ Pushed 1 commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+1. ⭐ Starred [JosephHewitt/wardriver_rev3](https://github.com/JosephHewitt/wardriver_rev3)<br>
+2. ⭐ Starred [Root-Down-Digital/pentesting-resources](https://github.com/Root-Down-Digital/pentesting-resources)<br>
+3. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)<br>
+4. 🔱 Forked [nechry/itech_usb_serial](https://github.com/nechry/itech_usb_serial) from [Blinkinlabs/itech_usb_serial](https://github.com/Blinkinlabs/itech_usb_serial)<br>
+5. ⭐ Starred [Blinkinlabs/itech_usb_serial](https://github.com/Blinkinlabs/itech_usb_serial)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
