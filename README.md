@@ -44,15 +44,15 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 31st, 2024, 13:43
+Last Updated: Wednesday, July 31st, 2024, 14:07
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JosephHewitt/wardriver_rev3](https://github.com/JosephHewitt/wardriver_rev3)<br>
-2. ⭐ Starred [Root-Down-Digital/pentesting-resources](https://github.com/Root-Down-Digital/pentesting-resources)<br>
-3. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)<br>
-4. 🔱 Forked [nechry/itech_usb_serial](https://github.com/nechry/itech_usb_serial) from [Blinkinlabs/itech_usb_serial](https://github.com/Blinkinlabs/itech_usb_serial)<br>
-5. ⭐ Starred [Blinkinlabs/itech_usb_serial](https://github.com/Blinkinlabs/itech_usb_serial)<br>
+1. ⭐ Starred [aapooksman/certmitm](https://github.com/aapooksman/certmitm)<br>
+2. ⭐ Starred [nmatt0/mitmrouter](https://github.com/nmatt0/mitmrouter)<br>
+3. ⭐ Starred [JosephHewitt/wardriver_rev3](https://github.com/JosephHewitt/wardriver_rev3)<br>
+4. ⭐ Starred [Root-Down-Digital/pentesting-resources](https://github.com/Root-Down-Digital/pentesting-resources)<br>
+5. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
