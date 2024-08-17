@@ -44,15 +44,15 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 17th, 2024, 14:34
+Last Updated: Saturday, August 17th, 2024, 15:05
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-2. 💪 Opened PR [#103](https://github.com/spie-ics-ag/meraki2azure_ad/pull/103) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-3. 💪 Opened PR [#102](https://github.com/spie-ics-ag/meraki2azure_ad/pull/102) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-4. 💪 Opened PR [#101](https://github.com/spie-ics-ag/meraki2azure_ad/pull/101) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-5. ⬆️ Pushed 1 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. ⭐ Starred [O-MG/WebFlasher](https://github.com/O-MG/WebFlasher)<br>
+2. ⭐ Starred [O-MG/O.MG-Firmware](https://github.com/O-MG/O.MG-Firmware)<br>
+3. ⬆️ Pushed 1 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. 💪 Opened PR [#103](https://github.com/spie-ics-ag/meraki2azure_ad/pull/103) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+5. 💪 Opened PR [#102](https://github.com/spie-ics-ag/meraki2azure_ad/pull/102) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
