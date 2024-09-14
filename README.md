@@ -44,15 +44,15 @@ Thank you in advance!
 ## Recent Github Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 14th, 2024, 09:07
+Last Updated: Saturday, September 14th, 2024, 09:36
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#115](https://github.com/spie-ics-ag/meraki2azure_ad/pull/115) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. 💪 Opened PR [#116](https://github.com/spie-ics-ag/meraki2azure_ad/pull/116) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 2. ⬆️ Pushed 1 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-3. ⭐ Starred [hideckies/exploit-notes](https://github.com/hideckies/exploit-notes)<br>
-4. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-5. 🎉 Merged PR [#106](https://github.com/spie-ics-ag/meraki2azure_ad/pull/106) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+3. 💪 Opened PR [#115](https://github.com/spie-ics-ag/meraki2azure_ad/pull/115) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. ⬆️ Pushed 1 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+5. ⭐ Starred [hideckies/exploit-notes](https://github.com/hideckies/exploit-notes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
