@@ -29,8 +29,8 @@ Thank you in advance!
 
 ### Connect with me
 
-- [twitter][twitter]
-- [linkedin][linkedin]
+- [X][twitter]
+- [LinkedIn][linkedin]
 
 [website]: https://nechry-automation.ch
 [twitter]: https://twitter.com/nechry
