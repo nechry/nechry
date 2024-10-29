@@ -1,4 +1,4 @@
-## Hi there, I'm Jean-François - aka nechry 
+## Hi there, I'm Jean-François - aka nechry
 [![Twitter Follow][twitter-badge]][twitter]
 [![LinkedIn][linkedin-badge]][linkedin]
 [![GitHub nechry][gitHub-badge]][gitHub]
@@ -6,8 +6,8 @@
 Senior Software Engineer at [SPIE Switzerland](https://www.spie.ch/en/)
 
 [![HackTheBox][hackthebox-badge]][hackthebox]
-
-
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nechry/nechry/output/github-contribution-grid-snake.svg" />
+## Short resume
 ```javascript
 const nechry = {
     pronouns: "He/Him",
@@ -80,7 +80,6 @@ If you find my work useful, consider supporting me as a sponsor
 
 Thank you in advance!
 
----
 [gitHub]: https://github.com/nechry
 [gitHub-badge]: https://img.shields.io/github/followers/nechry?label=follow&style=social
 [header-image]: assets/header_nechry.png
@@ -97,7 +96,15 @@ Thank you in advance!
 [plugin-openzwave]: https://github.com/jeedom/plugin-openzwave
 [python-openzwave]: https://github.com/OpenZWave/python-openzwave
 
----
+### ⚡Recent Activities ⚡
+
+<!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+2. 🎉 Merged PR [#130](https://github.com/spie-ics-ag/meraki2azure_ad/pull/130) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+3. 💪 Opened PR [#720](https://github.com/NanoVNA-Saver/nanovna-saver/pull/720) in [NanoVNA-Saver/nanovna-saver](https://github.com/NanoVNA-Saver/nanovna-saver)<br>
+4. ⬆️ Pushed 1 commit(s) to [nechry/nanovna-saver](https://github.com/nechry/nanovna-saver)<br>
+5. 🔱 Forked [nechry/nanovna-saver](undefined) from [NanoVNA-Saver/nanovna-saver](https://github.com/NanoVNA-Saver/nanovna-saver)<br>
+<!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -168,59 +175,13 @@ PHP                      2 repos             █░░░░░░░░░░�
 
  Last Updated on 29/10/2024 11:42:22 UTC
 <!--END_SECTION:waka-->
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-## Recent Github Activity
+Note: The top languages shown do not reflect my skill level. They simply indicate the languages I've used in my GitHub repositories. I haven't uploaded other languages to GitHub.
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 29th, 2024, 13:46
-<!--RECENT_ACTIVITY:last_update_end-->
+## 🏆 GitHub Trophies
 
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-2. 🎉 Merged PR [#130](https://github.com/spie-ics-ag/meraki2azure_ad/pull/130) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-3. 💪 Opened PR [#720](https://github.com/NanoVNA-Saver/nanovna-saver/pull/720) in [NanoVNA-Saver/nanovna-saver](https://github.com/NanoVNA-Saver/nanovna-saver)<br>
-4. ⬆️ Pushed 1 commit(s) to [nechry/nanovna-saver](https://github.com/nechry/nanovna-saver)<br>
-5. 🔱 Forked [nechry/nanovna-saver](undefined) from [NanoVNA-Saver/nanovna-saver](https://github.com/NanoVNA-Saver/nanovna-saver)<br>
-<!--RECENT_ACTIVITY:end-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=nechry&theme=nord&column=7&no-frame=true&row=1&margin-w=36)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<h2 align="center">💻 Languages and Tools 💻</h2>
-
-<p align="center">
-  <div>
-    <img src="https://skillicons.dev/icons?i=github,azure,arduino,docker,nodejs,ts,c,dotnet,bash,vscode,visualstudio,cloudflare,express,grafana,html,linux,mongodb,powershell,prometheus,raspberrypi" />
-  </div>
-</p>
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
 <p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nechry&show_icons=true&hide_border=true&count_private=true&theme=blue-green" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nechry&theme=blue-green" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nechry&theme=blue-green" />
-    </a>
-  </div>
-  <br>
+  <img align="left" width=390 alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nechry&show_icons=true&hide_border=true&count_private=true&theme=blue-green" />
+  <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nechry&theme=blue-green" />
 </p>
-<div align=center>
-<img src="https://github-profile-trophy.vercel.app/?username=nechry&theme=onedark&no-frame=true&row=1&margin-w=36" />
-</div>
-<div align=center>
-  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</div>
-
-<hr>
-
-
-
-
-
