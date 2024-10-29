@@ -108,15 +108,15 @@ Thank you in advance!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-574.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-573.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 219 Contributions in the Year 2024
+> 🏆 229 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -127,21 +127,10 @@ Thank you in advance!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                209 commits         ████████░░░░░░░░░░░░░░░░░   30.92 % 
-🌆 Daytime                241 commits         █████████░░░░░░░░░░░░░░░░   35.65 % 
-🌃 Evening                222 commits         ████████░░░░░░░░░░░░░░░░░   32.84 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Tuesday                  69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Wednesday                163 commits         ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-Thursday                 98 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Friday                   112 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Saturday                 62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Sunday                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+🌞 Morning                186 commits         ████████░░░░░░░░░░░░░░░░░   30.74 % 
+🌆 Daytime                217 commits         █████████░░░░░░░░░░░░░░░░   35.87 % 
+🌃 Evening                198 commits         ████████░░░░░░░░░░░░░░░░░   32.73 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
 
@@ -154,6 +143,9 @@ Sunday                   74 commits          ███░░░░░░░░�
 No Activity Tracked This Week
 
 🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
@@ -173,7 +165,6 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2024 11:42:22 UTC
 <!--END_SECTION:waka-->
 Note: The top languages shown do not reflect my skill level. They simply indicate the languages I've used in my GitHub repositories. I haven't uploaded other languages to GitHub.
 
