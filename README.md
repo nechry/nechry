@@ -137,32 +137,9 @@ Thank you in advance!
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Europe/Zurich
-
 💬 Programming Languages: 
 No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
 ```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-C                        5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-```
-
-
 
 
 <!--END_SECTION:waka-->
