@@ -99,6 +99,74 @@ Thank you in advance!
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-574.3%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 219 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 43 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                209 commits         ████████░░░░░░░░░░░░░░░░░   30.92 % 
+🌆 Daytime                241 commits         █████████░░░░░░░░░░░░░░░░   35.65 % 
+🌃 Evening                222 commits         ████████░░░░░░░░░░░░░░░░░   32.84 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Tuesday                  69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Wednesday                163 commits         ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+Thursday                 98 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Friday                   112 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Saturday                 62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Sunday                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Zurich
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+C                        5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+
+
+
+
+ Last Updated on 29/10/2024 11:42:22 UTC
 <!--END_SECTION:waka-->
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 ## Recent Github Activity
