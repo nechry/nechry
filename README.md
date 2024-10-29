@@ -6,7 +6,7 @@
 Senior Software Engineer at [SPIE Switzerland](https://www.spie.ch/en/)
 
 [![HackTheBox][hackthebox-badge]][hackthebox]
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nechry/nechry/output/github-contribution-grid-snake.svg" />
+<!--<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nechry/nechry/output/github-contribution-grid-snake.svg" />-->
 ## Short resume
 ```javascript
 const nechry = {
