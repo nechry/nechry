@@ -114,13 +114,11 @@ Thank you in advance!
 
 **🐱 My GitHub Data** 
 
-> 📦 65.3 kB Used in GitHub's Storage 
- > 
-> 🏆 236 Contributions in the Year 2024
+> 📦 65.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 45 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
