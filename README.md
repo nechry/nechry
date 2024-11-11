@@ -106,9 +106,11 @@ Thank you in advance!
 5. 💪 Opened PR [#720](https://github.com/NanoVNA-Saver/nanovna-saver/pull/720) in [NanoVNA-Saver/nanovna-saver](https://github.com/NanoVNA-Saver/nanovna-saver)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-577.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-577.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -122,6 +124,23 @@ Thank you in advance!
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                220 commits         ████████░░░░░░░░░░░░░░░░░   31.34 % 
+🌆 Daytime                265 commits         █████████░░░░░░░░░░░░░░░░   37.75 % 
+🌃 Evening                213 commits         ████████░░░░░░░░░░░░░░░░░   30.34 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 Note: The top languages shown do not reflect my skill level. They simply indicate the languages I've used in my GitHub repositories. I haven't uploaded other languages to GitHub.
