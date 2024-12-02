@@ -106,11 +106,9 @@ Thank you in advance!
 5. ⭐ Starred [Tunnelblick/Tunnelblick](https://github.com/Tunnelblick/Tunnelblick)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-585.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-586.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -127,9 +125,9 @@ Thank you in advance!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                288 commits         ████████░░░░░░░░░░░░░░░░░   31.72 % 
-🌆 Daytime                374 commits         ██████████░░░░░░░░░░░░░░░   41.19 % 
-🌃 Evening                241 commits         ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+🌞 Morning                290 commits         ████████░░░░░░░░░░░░░░░░░   31.87 % 
+🌆 Daytime                374 commits         ██████████░░░░░░░░░░░░░░░   41.10 % 
+🌃 Evening                241 commits         ███████░░░░░░░░░░░░░░░░░░   26.48 % 
 🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 
