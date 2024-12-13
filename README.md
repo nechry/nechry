@@ -100,10 +100,10 @@ Thank you in advance!
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [nechry/lanturtle-modules](https://github.com/nechry/lanturtle-modules)<br>
-2. 🔱 Forked [nechry/lanturtle-modules](https://github.com/nechry/lanturtle-modules) from [hak5/lanturtle-modules](https://github.com/hak5/lanturtle-modules)<br>
-3. ⭐ Starred [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor)<br>
-4. ⬆️ Pushed 1 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-5. ⭐ Starred [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits)<br>
+2. ⬆️ Pushed 1 commit(s) to [nechry/lanturtle-modules](https://github.com/nechry/lanturtle-modules)<br>
+3. 🔱 Forked [nechry/lanturtle-modules](https://github.com/nechry/lanturtle-modules) from [hak5/lanturtle-modules](https://github.com/hak5/lanturtle-modules)<br>
+4. ⭐ Starred [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor)<br>
+5. ⬆️ Pushed 1 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
