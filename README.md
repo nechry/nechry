@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [nechry/writehat](https://github.com/nechry/writehat) from [blacklanternsecurity/writehat](https://github.com/blacklanternsecurity/writehat)<br>
-2. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-3. 🎉 Merged PR [#148](https://github.com/spie-ics-ag/meraki2azure_ad/pull/148) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-4. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-5. 🎉 Merged PR [#145](https://github.com/spie-ics-ag/meraki2azure_ad/pull/145) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. ⭐ Starred [hak5/packetsquirrel-payloads](https://github.com/hak5/packetsquirrel-payloads)<br>
+2. 🔱 Forked [nechry/writehat](https://github.com/nechry/writehat) from [blacklanternsecurity/writehat](https://github.com/blacklanternsecurity/writehat)<br>
+3. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. 🎉 Merged PR [#148](https://github.com/spie-ics-ag/meraki2azure_ad/pull/148) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+5. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
