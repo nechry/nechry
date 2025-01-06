@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#101](https://github.com/al-one/hass-miio-yeelink/issues/101) in [al-one/hass-miio-yeelink](https://github.com/al-one/hass-miio-yeelink)<br>
-2. ⭐ Starred [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi)<br>
-3. ⭐ Starred [leonjza/awesome-nmap-grep](https://github.com/leonjza/awesome-nmap-grep)<br>
-4. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-5. 🎉 Merged PR [#151](https://github.com/spie-ics-ag/meraki2azure_ad/pull/151) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. ⭐ Starred [linshuqin329/UPS-Lite](https://github.com/linshuqin329/UPS-Lite)<br>
+2. ❗️ Opened issue [#101](https://github.com/al-one/hass-miio-yeelink/issues/101) in [al-one/hass-miio-yeelink](https://github.com/al-one/hass-miio-yeelink)<br>
+3. ⭐ Starred [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi)<br>
+4. ⭐ Starred [leonjza/awesome-nmap-grep](https://github.com/leonjza/awesome-nmap-grep)<br>
+5. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
