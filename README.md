@@ -106,7 +106,9 @@ Thank you in advance!
 5. ❗️ Opened issue [#101](https://github.com/al-one/hass-miio-yeelink/issues/101) in [al-one/hass-miio-yeelink](https://github.com/al-one/hass-miio-yeelink)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-590.3%20thousand%20lines%20of%20code-blue)
 
@@ -114,12 +116,31 @@ Thank you in advance!
 
 > 📦 65.5 kB Used in GitHub's Storage 
  > 
+> 🏆 2 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 50 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                324 commits         ████████░░░░░░░░░░░░░░░░░   30.95 % 
+🌆 Daytime                457 commits         ███████████░░░░░░░░░░░░░░   43.65 % 
+🌃 Evening                259 commits         ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 Note: The top languages shown do not reflect my skill level. They simply indicate the languages I've used in my GitHub repositories. I haven't uploaded other languages to GitHub.
