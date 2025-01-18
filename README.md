@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#85](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display/issues/85) in [Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display)<br>
-2. ⭐ Starred [Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display)<br>
-3. ⭐ Starred [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec)<br>
-4. ⭐ Starred [linshuqin329/UPS-Lite](https://github.com/linshuqin329/UPS-Lite)<br>
-5. ❗️ Opened issue [#101](https://github.com/al-one/hass-miio-yeelink/issues/101) in [al-one/hass-miio-yeelink](https://github.com/al-one/hass-miio-yeelink)<br>
+1. 🔱 Forked [nechry/PowerSploit](https://github.com/nechry/PowerSploit) from [ZeroDayLab/PowerSploit](https://github.com/ZeroDayLab/PowerSploit)<br>
+2. ❗️ Opened issue [#85](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display/issues/85) in [Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display)<br>
+3. ⭐ Starred [Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display)<br>
+4. ⭐ Starred [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec)<br>
+5. ⭐ Starred [linshuqin329/UPS-Lite](https://github.com/linshuqin329/UPS-Lite)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
