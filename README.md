@@ -106,8 +106,6 @@ Thank you in advance!
 5. 🎉 Merged PR [#155](https://github.com/spie-ics-ag/meraki2azure_ad/pull/155) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-602.0%20thousand%20lines%20of%20code-blue)
@@ -124,23 +122,6 @@ Thank you in advance!
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                437 commits         ████████░░░░░░░░░░░░░░░░░   31.19 % 
-🌆 Daytime                634 commits         ███████████░░░░░░░░░░░░░░   45.25 % 
-🌃 Evening                317 commits         ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 Note: The top languages shown do not reflect my skill level. They simply indicate the languages I've used in my GitHub repositories. I haven't uploaded other languages to GitHub.
