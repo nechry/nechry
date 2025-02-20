@@ -110,11 +110,13 @@ Thank you in advance!
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-602.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-589.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 65.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 13 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -125,10 +127,10 @@ Thank you in advance!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                437 commits         ████████░░░░░░░░░░░░░░░░░   31.19 % 
-🌆 Daytime                634 commits         ███████████░░░░░░░░░░░░░░   45.25 % 
-🌃 Evening                317 commits         ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+🌞 Morning                320 commits         ████████░░░░░░░░░░░░░░░░░   30.48 % 
+🌆 Daytime                460 commits         ███████████░░░░░░░░░░░░░░   43.81 % 
+🌃 Evening                263 commits         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 
 
