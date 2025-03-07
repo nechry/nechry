@@ -116,7 +116,7 @@ Thank you in advance!
 
 > 📦 65.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 17 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
