@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jkramarz/TheTick](https://github.com/jkramarz/TheTick)<br>
-2. ⭐ Starred [GoToolSharing/htb-cli](https://github.com/GoToolSharing/htb-cli)<br>
-3. 🔱 Forked [nechry/HTB-certified-bug-bounty-hunter-exam-cheetsheet](https://github.com/nechry/HTB-certified-bug-bounty-hunter-exam-cheetsheet) from [TheUnknownSoul/HTB-certified-bug-bounty-hunter-exam-cheetsheet](https://github.com/TheUnknownSoul/HTB-certified-bug-bounty-hunter-exam-cheetsheet)<br>
-4. ⭐ Starred [hacktheclown/exploits](https://github.com/hacktheclown/exploits)<br>
-5. ❗️ Opened issue [#803](https://github.com/NanoVNA-Saver/nanovna-saver/issues/803) in [NanoVNA-Saver/nanovna-saver](https://github.com/NanoVNA-Saver/nanovna-saver)<br>
+1. ⭐ Starred [msalexms/rtl-sdr-analyzer](https://github.com/msalexms/rtl-sdr-analyzer)<br>
+2. ⭐ Starred [jkramarz/TheTick](https://github.com/jkramarz/TheTick)<br>
+3. ⭐ Starred [GoToolSharing/htb-cli](https://github.com/GoToolSharing/htb-cli)<br>
+4. 🔱 Forked [nechry/HTB-certified-bug-bounty-hunter-exam-cheetsheet](https://github.com/nechry/HTB-certified-bug-bounty-hunter-exam-cheetsheet) from [TheUnknownSoul/HTB-certified-bug-bounty-hunter-exam-cheetsheet](https://github.com/TheUnknownSoul/HTB-certified-bug-bounty-hunter-exam-cheetsheet)<br>
+5. ⭐ Starred [hacktheclown/exploits](https://github.com/hacktheclown/exploits)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
