@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero](https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero)<br>
-2. 💪 Opened PR [#164](https://github.com/spie-ics-ag/meraki2azure_ad/pull/164) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-3. ⬆️ Pushed 1 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-4. ⭐ Starred [msalexms/rtl-sdr-analyzer](https://github.com/msalexms/rtl-sdr-analyzer)<br>
-5. ⭐ Starred [jkramarz/TheTick](https://github.com/jkramarz/TheTick)<br>
+1. ⭐ Starred [ethicalhackingplayground/bxss](https://github.com/ethicalhackingplayground/bxss)<br>
+2. ⭐ Starred [h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero](https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero)<br>
+3. 💪 Opened PR [#164](https://github.com/spie-ics-ag/meraki2azure_ad/pull/164) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. ⬆️ Pushed 1 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+5. ⭐ Starred [msalexms/rtl-sdr-analyzer](https://github.com/msalexms/rtl-sdr-analyzer)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
