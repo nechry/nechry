@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#3667](https://github.com/jomjol/AI-on-the-edge-device/issues/3667) in [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)<br>
-2. ⬆️ Pushed 1 commit(s) to [nechry/DoorSim](https://github.com/nechry/DoorSim)<br>
-3. 📔 Created new repository [nechry/DoorSim](https://github.com/nechry/DoorSim)<br>
-4. ⭐ Starred [ethicalhackingplayground/bxss](https://github.com/ethicalhackingplayground/bxss)<br>
-5. ⭐ Starred [h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero](https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero)<br>
+1. 🔱 Forked [nechry/AI-on-the-edge-device-docs](https://github.com/nechry/AI-on-the-edge-device-docs) from [jomjol/AI-on-the-edge-device-docs](https://github.com/jomjol/AI-on-the-edge-device-docs)<br>
+2. 💪 Opened PR [#3668](https://github.com/jomjol/AI-on-the-edge-device/pull/3668) in [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)<br>
+3. ⬆️ Pushed 1 commit(s) to [nechry/AI-on-the-edge-device](https://github.com/nechry/AI-on-the-edge-device)<br>
+4. 🔱 Forked [nechry/AI-on-the-edge-device](https://github.com/nechry/AI-on-the-edge-device) from [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)<br>
+5. ✔️ Closed issue [#3667](https://github.com/jomjol/AI-on-the-edge-device/issues/3667) in [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
