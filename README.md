@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nechry/DoorSim](https://github.com/nechry/DoorSim)<br>
-2. 📔 Created new repository [nechry/DoorSim](https://github.com/nechry/DoorSim)<br>
-3. ⭐ Starred [ethicalhackingplayground/bxss](https://github.com/ethicalhackingplayground/bxss)<br>
-4. ⭐ Starred [h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero](https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero)<br>
-5. 💪 Opened PR [#164](https://github.com/spie-ics-ag/meraki2azure_ad/pull/164) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. ❗️ Opened issue [#3667](https://github.com/jomjol/AI-on-the-edge-device/issues/3667) in [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)<br>
+2. ⬆️ Pushed 1 commit(s) to [nechry/DoorSim](https://github.com/nechry/DoorSim)<br>
+3. 📔 Created new repository [nechry/DoorSim](https://github.com/nechry/DoorSim)<br>
+4. ⭐ Starred [ethicalhackingplayground/bxss](https://github.com/ethicalhackingplayground/bxss)<br>
+5. ⭐ Starred [h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero](https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
