@@ -114,7 +114,7 @@ Thank you in advance!
 
 **🐱 My GitHub Data** 
 
-> 📦 65.6 kB Used in GitHub's Storage 
+> 📦 65.3 kB Used in GitHub's Storage 
  > 
 > 🏆 37 Contributions in the Year 2025
  > 
