@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware)<br>
-2. 🔱 Forked [nechry/AI-on-the-edge-device-docs](https://github.com/nechry/AI-on-the-edge-device-docs) from [jomjol/AI-on-the-edge-device-docs](https://github.com/jomjol/AI-on-the-edge-device-docs)<br>
-3. 💪 Opened PR [#3668](https://github.com/jomjol/AI-on-the-edge-device/pull/3668) in [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)<br>
-4. ⬆️ Pushed 1 commit(s) to [nechry/AI-on-the-edge-device](https://github.com/nechry/AI-on-the-edge-device)<br>
-5. 🔱 Forked [nechry/AI-on-the-edge-device](https://github.com/nechry/AI-on-the-edge-device) from [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)<br>
+1. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+2. 🎉 Merged PR [#176](https://github.com/spie-ics-ag/meraki2azure_ad/pull/176) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+3. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. 🎉 Merged PR [#175](https://github.com/spie-ics-ag/meraki2azure_ad/pull/175) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+5. ⭐ Starred [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
