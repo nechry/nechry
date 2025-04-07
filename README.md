@@ -3,7 +3,7 @@
 [![LinkedIn][linkedin-badge]][linkedin]
 [![GitHub nechry][gitHub-badge]][gitHub]
 
-Senior Software Engineer at [SPIE Switzerland](https://www.spie.ch/en/)
+Senior Software Engineer at [SPIE Switzerland](https://www.spie.ch/en/) & Cybersecurity Enthusiast
 
 [![HackTheBox][hackthebox-badge]][hackthebox]
 <!--<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nechry/nechry/output/github-contribution-grid-snake.svg" />-->
