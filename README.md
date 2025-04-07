@@ -89,7 +89,7 @@ Thank you in advance!
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnechry&screen_name=nechry
 [twitter-badge]: https://img.shields.io/twitter/follow/nechry?style=social
 [linkedin]: https://linkedin.com/in/jfauger
-[linkedin-badge]: https://img.shields.io/badge/-jfauger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jfauger/
+[linkedin-badge]: https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jfauger/
 [sponsor]: https://github.com/sponsors/nechry
 [sponsor-button]: assets/GitHub_Sponsorship_button.png
 [Openzwave]: https://github.com/OpenZWave
