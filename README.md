@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [OWASP/wstg](https://github.com/OWASP/wstg)<br>
+1. ⭐ Starred [808ale/SMB-Write-Checker](https://github.com/808ale/SMB-Write-Checker)<br>
 2. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-3. 🎉 Merged PR [#176](https://github.com/spie-ics-ag/meraki2azure_ad/pull/176) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-4. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-5. 🎉 Merged PR [#175](https://github.com/spie-ics-ag/meraki2azure_ad/pull/175) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+3. 🎉 Merged PR [#177](https://github.com/spie-ics-ag/meraki2azure_ad/pull/177) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. ⭐ Starred [OWASP/wstg](https://github.com/OWASP/wstg)<br>
+5. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
