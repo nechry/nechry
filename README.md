@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gtworek/PSBits](https://github.com/gtworek/PSBits)<br>
-2. ⭐ Starred [ttpreport/ligolo-mp](https://github.com/ttpreport/ligolo-mp)<br>
-3. ⭐ Starred [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer)<br>
-4. ⭐ Starred [808ale/SMB-Write-Checker](https://github.com/808ale/SMB-Write-Checker)<br>
-5. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. 🔱 Forked [nechry/pico-tpmsniffer](https://github.com/nechry/pico-tpmsniffer) from [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer)<br>
+2. ⭐ Starred [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer)<br>
+3. ⭐ Starred [gtworek/PSBits](https://github.com/gtworek/PSBits)<br>
+4. ⭐ Starred [ttpreport/ligolo-mp](https://github.com/ttpreport/ligolo-mp)<br>
+5. ⭐ Starred [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
