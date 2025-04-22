@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MorDavid/BloodHound-MCP-AI](https://github.com/MorDavid/BloodHound-MCP-AI)<br>
-2. 🔱 Forked [nechry/pico-tpmsniffer](https://github.com/nechry/pico-tpmsniffer) from [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer)<br>
-3. ⭐ Starred [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer)<br>
-4. ⭐ Starred [gtworek/PSBits](https://github.com/gtworek/PSBits)<br>
-5. ⭐ Starred [ttpreport/ligolo-mp](https://github.com/ttpreport/ligolo-mp)<br>
+1. ⭐ Starred [0dayCTF/Autofill_Danger](https://github.com/0dayCTF/Autofill_Danger)<br>
+2. ⭐ Starred [MorDavid/BloodHound-MCP-AI](https://github.com/MorDavid/BloodHound-MCP-AI)<br>
+3. 🔱 Forked [nechry/pico-tpmsniffer](https://github.com/nechry/pico-tpmsniffer) from [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer)<br>
+4. ⭐ Starred [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer)<br>
+5. ⭐ Starred [gtworek/PSBits](https://github.com/gtworek/PSBits)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
