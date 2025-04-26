@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [0dayCTF/Autofill_Danger](https://github.com/0dayCTF/Autofill_Danger)<br>
-2. ⭐ Starred [MorDavid/BloodHound-MCP-AI](https://github.com/MorDavid/BloodHound-MCP-AI)<br>
-3. 🔱 Forked [nechry/pico-tpmsniffer](https://github.com/nechry/pico-tpmsniffer) from [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer)<br>
-4. ⭐ Starred [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer)<br>
-5. ⭐ Starred [gtworek/PSBits](https://github.com/gtworek/PSBits)<br>
+1. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+2. 🎉 Merged PR [#180](https://github.com/spie-ics-ag/meraki2azure_ad/pull/180) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+3. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. 🎉 Merged PR [#178](https://github.com/spie-ics-ag/meraki2azure_ad/pull/178) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+5. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
