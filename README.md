@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.0.4](https://github.com/nechry/elco-remocon-net-appdaemon/releases/tag/v1.0.4) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+1. ✌️ Released [v1.0.5](https://github.com/nechry/elco-remocon-net-appdaemon/releases/tag/v1.0.5) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
 2. ⬆️ Pushed 1 commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
-3. ✔️ Closed issue [#220](https://github.com/spie-ics-ag/meraki2azure_ad/issues/220) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-4. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-5. 🎉 Merged PR [#215](https://github.com/spie-ics-ag/meraki2azure_ad/pull/215) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+3. ✌️ Released [v1.0.4](https://github.com/nechry/elco-remocon-net-appdaemon/releases/tag/v1.0.4) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+4. ⬆️ Pushed 1 commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+5. ✔️ Closed issue [#220](https://github.com/spie-ics-ag/meraki2azure_ad/issues/220) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
