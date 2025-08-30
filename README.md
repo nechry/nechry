@@ -106,8 +106,6 @@ Thank you in advance!
 5. ⬆️ Pushed 1 commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-586.8%20thousand%20lines%20of%20code-blue)
@@ -124,23 +122,6 @@ Thank you in advance!
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                299 commits         ███████░░░░░░░░░░░░░░░░░░   29.69 % 
-🌆 Daytime                414 commits         ██████████░░░░░░░░░░░░░░░   41.11 % 
-🌃 Evening                283 commits         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 Note: The top languages shown do not reflect my skill level. They simply indicate the languages I've used in my GitHub repositories. I haven't uploaded other languages to GitHub.
