@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#211](undefined) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. ❌ Closed PR [#211](https://github.com/spie-ics-ag/meraki2azure_ad/pull/211) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 2. ⭐ Starred [home-assistant/zwa2-toolbox](https://github.com/home-assistant/zwa2-toolbox)<br>
-3. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-4. ✔️ Closed issue [#151209](https://github.com/home-assistant/core/issues/151209) in [home-assistant/core](https://github.com/home-assistant/core)<br>
-5. ❗️ Opened issue [#1436](https://github.com/zwave-js/zwave-js-server/issues/1436) in [zwave-js/zwave-js-server](https://github.com/zwave-js/zwave-js-server)<br>
+3. ✔️ Closed issue [#151209](https://github.com/home-assistant/core/issues/151209) in [home-assistant/core](https://github.com/home-assistant/core)<br>
+4. ❗️ Opened issue [#1436](https://github.com/zwave-js/zwave-js-server/issues/1436) in [zwave-js/zwave-js-server](https://github.com/zwave-js/zwave-js-server)<br>
+5. ❗️ Opened issue [#151209](https://github.com/home-assistant/core/issues/151209) in [home-assistant/core](https://github.com/home-assistant/core)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
