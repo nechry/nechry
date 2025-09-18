@@ -100,10 +100,10 @@ Thank you in advance!
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-2. 🎉 Merged PR [#231](https://github.com/spie-ics-ag/meraki2azure_ad/pull/231) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+2. 🎉 Merged PR [#234](https://github.com/spie-ics-ag/meraki2azure_ad/pull/234) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 3. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-4. 🎉 Merged PR [#232](https://github.com/spie-ics-ag/meraki2azure_ad/pull/232) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-5. 💪 Opened PR [#231](https://github.com/spie-ics-ag/meraki2azure_ad/pull/231) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. 🎉 Merged PR [#233](https://github.com/spie-ics-ag/meraki2azure_ad/pull/233) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+5. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
