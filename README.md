@@ -100,10 +100,10 @@ Thank you in advance!
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [MorDavid/BruteForceAI](https://github.com/MorDavid/BruteForceAI)<br>
-2. 🔱 Forked [nechry/PAYGoat](https://github.com/nechry/PAYGoat) from [nechry/PAYGoat](https://github.com/nechry/PAYGoat)<br>
+2. 🔱 Forked [nechry/PAYGoat](https://github.com/nechry/PAYGoat) from [stuxctf/PAYGoat](https://github.com/stuxctf/PAYGoat)<br>
 3. ⭐ Starred [stuxctf/PAYGoat](https://github.com/stuxctf/PAYGoat)<br>
 4. ⭐ Starred [yo-yo-yo-jbo/dumping_lsass](https://github.com/yo-yo-yo-jbo/dumping_lsass)<br>
-5. 🔱 Forked [nechry/dumping_lsass](https://github.com/nechry/dumping_lsass) from [nechry/dumping_lsass](https://github.com/nechry/dumping_lsass)<br>
+5. 🔱 Forked [nechry/dumping_lsass](https://github.com/nechry/dumping_lsass) from [yo-yo-yo-jbo/dumping_lsass](https://github.com/yo-yo-yo-jbo/dumping_lsass)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
