@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)<br>
-2. ⭐ Starred [MorDavid/BruteForceAI](https://github.com/MorDavid/BruteForceAI)<br>
-3. 🔱 Forked [nechry/PAYGoat](https://github.com/nechry/PAYGoat) from [stuxctf/PAYGoat](https://github.com/stuxctf/PAYGoat)<br>
-4. ⭐ Starred [stuxctf/PAYGoat](https://github.com/stuxctf/PAYGoat)<br>
-5. ⭐ Starred [yo-yo-yo-jbo/dumping_lsass](https://github.com/yo-yo-yo-jbo/dumping_lsass)<br>
+1. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+2. 🎉 Merged PR [#237](https://github.com/spie-ics-ag/meraki2azure_ad/pull/237) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+3. ⭐ Starred [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol)<br>
+4. ⭐ Starred [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)<br>
+5. ⭐ Starred [MorDavid/BruteForceAI](https://github.com/MorDavid/BruteForceAI)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
