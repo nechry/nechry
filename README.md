@@ -110,13 +110,13 @@ Thank you in advance!
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-592.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-592.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 65.6 kB Used in GitHub's Storage 
+> 📦 65.7 kB Used in GitHub's Storage 
  > 
-> 🏆 118 Contributions in the Year 2025
+> 🏆 120 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
