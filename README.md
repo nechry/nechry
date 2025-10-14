@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-2. 🎉 Merged PR [#237](https://github.com/spie-ics-ag/meraki2azure_ad/pull/237) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-3. ⭐ Starred [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol)<br>
-4. ⭐ Starred [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)<br>
-5. ⭐ Starred [MorDavid/BruteForceAI](https://github.com/MorDavid/BruteForceAI)<br>
+1. ⭐ Starred [x0xr00t/sl0ppy-PrivescTaskCreator](https://github.com/x0xr00t/sl0ppy-PrivescTaskCreator)<br>
+2. ⭐ Starred [zigpy/zigpy-cli](https://github.com/zigpy/zigpy-cli)<br>
+3. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+5. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
