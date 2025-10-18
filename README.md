@@ -99,9 +99,9 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [x0xr00t/sl0ppy-PrivescTaskCreator](https://github.com/x0xr00t/sl0ppy-PrivescTaskCreator)<br>
-2. ⭐ Starred [zigpy/zigpy-cli](https://github.com/zigpy/zigpy-cli)<br>
-3. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. ❗️ Opened issue [#72](https://github.com/joelsernamoreno/EvilCrowRF-V2/issues/72) in [joelsernamoreno/EvilCrowRF-V2](https://github.com/joelsernamoreno/EvilCrowRF-V2)<br>
+2. ⭐ Starred [x0xr00t/sl0ppy-PrivescTaskCreator](https://github.com/x0xr00t/sl0ppy-PrivescTaskCreator)<br>
+3. ⭐ Starred [zigpy/zigpy-cli](https://github.com/zigpy/zigpy-cli)<br>
 4. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 5. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
