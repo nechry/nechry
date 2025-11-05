@@ -106,15 +106,17 @@ Thank you in advance!
 5. ❗️ Opened issue [#72](https://github.com/joelsernamoreno/EvilCrowRF-V2/issues/72) in [joelsernamoreno/EvilCrowRF-V2](https://github.com/joelsernamoreno/EvilCrowRF-V2)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-613.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-592.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 65.7 kB Used in GitHub's Storage 
  > 
-> 🏆 121 Contributions in the Year 2025
+> 🏆 125 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -125,10 +127,10 @@ Thank you in advance!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                584 commits         ████████░░░░░░░░░░░░░░░░░   30.23 % 
-🌆 Daytime                855 commits         ███████████░░░░░░░░░░░░░░   44.25 % 
-🌃 Evening                472 commits         ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+🌞 Morning                360 commits         ████████░░░░░░░░░░░░░░░░░   30.00 % 
+🌆 Daytime                503 commits         ██████████░░░░░░░░░░░░░░░   41.92 % 
+🌃 Evening                324 commits         ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 
