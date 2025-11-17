@@ -106,15 +106,17 @@ Thank you in advance!
 5. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-597.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 65.7 kB Used in GitHub's Storage 
+> 📦 65.8 kB Used in GitHub's Storage 
  > 
-> 🏆 129 Contributions in the Year 2025
+> 🏆 130 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -122,6 +124,23 @@ Thank you in advance!
  > 
 > 🔑 17 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                423 commits         ████████░░░░░░░░░░░░░░░░░   30.39 % 
+🌆 Daytime                593 commits         ███████████░░░░░░░░░░░░░░   42.60 % 
+🌃 Evening                361 commits         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+🌙 Night                  15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 Note: The top languages shown do not reflect my skill level. They simply indicate the languages I've used in my GitHub repositories. I haven't uploaded other languages to GitHub.
