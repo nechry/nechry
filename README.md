@@ -99,8 +99,8 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-2. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. ⬆️ Pushed undefined commit(s) to [nechry/Awesome-Active-Directory-PenTest-Tools](https://github.com/nechry/Awesome-Active-Directory-PenTest-Tools)<br>
+2. 🔱 Forked [nechry/Awesome-Active-Directory-PenTest-Tools](https://github.com/nechry/Awesome-Active-Directory-PenTest-Tools) from [CyberSecurityUP/Awesome-Active-Directory-PenTest-Tools](https://github.com/CyberSecurityUP/Awesome-Active-Directory-PenTest-Tools)<br>
 3. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 4. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 5. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
