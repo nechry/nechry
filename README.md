@@ -106,6 +106,8 @@ Thank you in advance!
 5. ⭐ Starred [CYB3RMX/Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-592.52%20thousand%20lines%20of%20code-blue)
@@ -122,6 +124,23 @@ Thank you in advance!
  > 
 > 🔑 17 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                367 commits         ████████░░░░░░░░░░░░░░░░░   30.18 % 
+🌆 Daytime                511 commits         ███████████░░░░░░░░░░░░░░   42.02 % 
+🌃 Evening                325 commits         ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 Note: The top languages shown do not reflect my skill level. They simply indicate the languages I've used in my GitHub repositories. I haven't uploaded other languages to GitHub.
