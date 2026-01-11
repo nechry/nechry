@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MartinxMax/BloodCat](https://github.com/MartinxMax/BloodCat)<br>
-2. ⭐ Starred [TheStingR/MCP-Ghidra5](https://github.com/TheStingR/MCP-Ghidra5)<br>
-3. ⭐ Starred [TheStingR/CVE-2025-68613-POC](https://github.com/TheStingR/CVE-2025-68613-POC)<br>
-4. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-5. ⭐ Starred [Cian911/esp32-fireplace-controller](https://github.com/Cian911/esp32-fireplace-controller)<br>
+1. ⭐ Starred [PortSwigger/bypass-bot-detection](https://github.com/PortSwigger/bypass-bot-detection)<br>
+2. ⭐ Starred [Sh1Yo/x8](https://github.com/Sh1Yo/x8)<br>
+3. ⭐ Starred [MartinxMax/BloodCat](https://github.com/MartinxMax/BloodCat)<br>
+4. ⭐ Starred [TheStingR/MCP-Ghidra5](https://github.com/TheStingR/MCP-Ghidra5)<br>
+5. ⭐ Starred [TheStingR/CVE-2025-68613-POC](https://github.com/TheStingR/CVE-2025-68613-POC)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
