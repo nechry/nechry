@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PortSwigger/bypass-bot-detection](https://github.com/PortSwigger/bypass-bot-detection)<br>
-2. ⭐ Starred [Sh1Yo/x8](https://github.com/Sh1Yo/x8)<br>
-3. ⭐ Starred [MartinxMax/BloodCat](https://github.com/MartinxMax/BloodCat)<br>
-4. ⭐ Starred [TheStingR/MCP-Ghidra5](https://github.com/TheStingR/MCP-Ghidra5)<br>
-5. ⭐ Starred [TheStingR/CVE-2025-68613-POC](https://github.com/TheStingR/CVE-2025-68613-POC)<br>
+1. 🔱 Forked [nechry/hackthebox-ctf-writeups](https://github.com/nechry/hackthebox-ctf-writeups) from [Ignitetechnologies/HackTheBox-CTF-Writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)<br>
+2. ⭐ Starred [Ignitetechnologies/HackTheBox-CTF-Writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)<br>
+3. ⭐ Starred [PortSwigger/bypass-bot-detection](https://github.com/PortSwigger/bypass-bot-detection)<br>
+4. ⭐ Starred [Sh1Yo/x8](https://github.com/Sh1Yo/x8)<br>
+5. ⭐ Starred [MartinxMax/BloodCat](https://github.com/MartinxMax/BloodCat)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
