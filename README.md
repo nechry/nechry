@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [nechry/hackthebox-ctf-writeups](https://github.com/nechry/hackthebox-ctf-writeups) from [Ignitetechnologies/HackTheBox-CTF-Writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)<br>
-2. ⭐ Starred [Ignitetechnologies/HackTheBox-CTF-Writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)<br>
-3. ⭐ Starred [PortSwigger/bypass-bot-detection](https://github.com/PortSwigger/bypass-bot-detection)<br>
-4. ⭐ Starred [Sh1Yo/x8](https://github.com/Sh1Yo/x8)<br>
-5. ⭐ Starred [MartinxMax/BloodCat](https://github.com/MartinxMax/BloodCat)<br>
+1. ✔️ Closed issue [#4](https://github.com/nechry/remocon2mqtt/issues/4) in [nechry/remocon2mqtt](https://github.com/nechry/remocon2mqtt)<br>
+2. 💪 Opened PR [#61](undefined) in [smittix/intercept](https://github.com/smittix/intercept)<br>
+3. ⬆️ Pushed undefined commit(s) to [nechry/intercept](https://github.com/nechry/intercept)<br>
+4. 🔱 Forked [nechry/intercept](https://github.com/nechry/intercept) from [smittix/intercept](https://github.com/smittix/intercept)<br>
+5. 🔱 Forked [nechry/hackthebox-ctf-writeups](https://github.com/nechry/hackthebox-ctf-writeups) from [Ignitetechnologies/HackTheBox-CTF-Writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
