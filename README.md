@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [nechry/wifipineapplepager-themes](https://github.com/nechry/wifipineapplepager-themes) from [hak5/wifipineapplepager-themes](https://github.com/hak5/wifipineapplepager-themes)<br>
-2. ⭐ Starred [hak5/wifipineapplepager-payloads](https://github.com/hak5/wifipineapplepager-payloads)<br>
-3. ⭐ Starred [six2dez/pentest-book](https://github.com/six2dez/pentest-book)<br>
-4. ✔️ Closed issue [#4](https://github.com/nechry/remocon2mqtt/issues/4) in [nechry/remocon2mqtt](https://github.com/nechry/remocon2mqtt)<br>
-5. 💪 Opened PR [#61](undefined) in [smittix/intercept](https://github.com/smittix/intercept)<br>
+1. ⭐ Starred [unit72784/Diabolic-Parasite](https://github.com/unit72784/Diabolic-Parasite)<br>
+2. 🔱 Forked [nechry/wifipineapplepager-themes](https://github.com/nechry/wifipineapplepager-themes) from [hak5/wifipineapplepager-themes](https://github.com/hak5/wifipineapplepager-themes)<br>
+3. ⭐ Starred [hak5/wifipineapplepager-payloads](https://github.com/hak5/wifipineapplepager-payloads)<br>
+4. ⭐ Starred [six2dez/pentest-book](https://github.com/six2dez/pentest-book)<br>
+5. ✔️ Closed issue [#4](https://github.com/nechry/remocon2mqtt/issues/4) in [nechry/remocon2mqtt](https://github.com/nechry/remocon2mqtt)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
