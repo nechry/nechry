@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [nechry/wpspin](https://github.com/nechry/wpspin) from [Hidaro/wpspin](https://github.com/Hidaro/wpspin)<br>
-2. 💪 Opened PR [#3](undefined) in [apisec-inc/mcp-audit](https://github.com/apisec-inc/mcp-audit)<br>
-3. ⬆️ Pushed undefined commit(s) to [nechry/mcp-audit](https://github.com/nechry/mcp-audit)<br>
-4. 🔱 Forked [nechry/mcp-audit](https://github.com/nechry/mcp-audit) from [apisec-inc/mcp-audit](https://github.com/apisec-inc/mcp-audit)<br>
-5. ⭐ Starred [unit72784/Diabolic-Parasite](https://github.com/unit72784/Diabolic-Parasite)<br>
+1. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+2. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+3. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+5. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
