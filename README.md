@@ -99,10 +99,10 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DavidProbinsky/RedTeam-Physical-Tools](https://github.com/DavidProbinsky/RedTeam-Physical-Tools)<br>
-2. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-3. 🔱 Forked [nechry/Diabolic-Parasite](https://github.com/nechry/Diabolic-Parasite) from [unit72784/Diabolic-Parasite](https://github.com/unit72784/Diabolic-Parasite)<br>
-4. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. ✔️ Closed issue [#1436](https://github.com/zwave-js/zwave-js-server/issues/1436) in [zwave-js/zwave-js-server](https://github.com/zwave-js/zwave-js-server)<br>
+2. ⭐ Starred [DavidProbinsky/RedTeam-Physical-Tools](https://github.com/DavidProbinsky/RedTeam-Physical-Tools)<br>
+3. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. 🔱 Forked [nechry/Diabolic-Parasite](https://github.com/nechry/Diabolic-Parasite) from [unit72784/Diabolic-Parasite](https://github.com/unit72784/Diabolic-Parasite)<br>
 5. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
