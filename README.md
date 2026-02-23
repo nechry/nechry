@@ -99,8 +99,8 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [1Password/SCAM](https://github.com/1Password/SCAM)<br>
-2. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. ⭐ Starred [Pennyw0rth/NetExec-Lab](https://github.com/Pennyw0rth/NetExec-Lab)<br>
+2. ⭐ Starred [1Password/SCAM](https://github.com/1Password/SCAM)<br>
 3. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 4. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 5. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
