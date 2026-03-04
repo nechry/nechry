@@ -99,9 +99,9 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PierreGode/Ragnar](https://github.com/PierreGode/Ragnar)<br>
-2. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-3. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. ⭐ Starred [ArtSecTest/artsec-xss-labs](https://github.com/ArtSecTest/artsec-xss-labs)<br>
+2. 🔱 Forked [nechry/artsec-xss-labs](https://github.com/nechry/artsec-xss-labs) from [ArtSecTest/artsec-xss-labs](https://github.com/ArtSecTest/artsec-xss-labs)<br>
+3. ⭐ Starred [PierreGode/Ragnar](https://github.com/PierreGode/Ragnar)<br>
 4. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 5. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
