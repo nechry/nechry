@@ -99,7 +99,7 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. ⭐ Starred [Hellsender01/LLMMap](https://github.com/Hellsender01/LLMMap)<br>
 2. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 3. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 4. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
