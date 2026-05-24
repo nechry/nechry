@@ -106,11 +106,9 @@ Thank you in advance!
 5. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-637.49%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-644.60%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -127,10 +125,10 @@ Thank you in advance!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                952 commits         ████████░░░░░░░░░░░░░░░░░   33.08 % 
-🌆 Daytime                1261 commits        ███████████░░░░░░░░░░░░░░   43.82 % 
-🌃 Evening                640 commits         ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+🌞 Morning                1053 commits        ████████░░░░░░░░░░░░░░░░░   33.35 % 
+🌆 Daytime                1383 commits        ███████████░░░░░░░░░░░░░░   43.81 % 
+🌃 Evening                694 commits         █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+🌙 Night                  27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 
 
