@@ -122,23 +122,6 @@ Thank you in advance!
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1193 commits        ████████░░░░░░░░░░░░░░░░░   33.60 % 
-🌆 Daytime                1534 commits        ███████████░░░░░░░░░░░░░░   43.20 % 
-🌃 Evening                795 commits         ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-🌙 Night                  29 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 Note: The top languages shown do not reflect my skill level. They simply indicate the languages I've used in my GitHub repositories. I haven't uploaded other languages to GitHub.
