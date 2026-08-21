@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-2. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-3. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-4. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-5. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. ⭐ Starred [Pwnsat/PWNCUBE](https://github.com/Pwnsat/PWNCUBE)<br>
+2. ⭐ Starred [Pwnsat/PWNSAT-C3](https://github.com/Pwnsat/PWNSAT-C3)<br>
+3. ⭐ Starred [Pwnsat/FlatSat](https://github.com/Pwnsat/FlatSat)<br>
+4. 🔱 Forked [nechry/AeroSpace-Cybersecurity](https://github.com/nechry/AeroSpace-Cybersecurity) from [r0r0x-xx/AeroSpace-Cybersecurity](https://github.com/r0r0x-xx/AeroSpace-Cybersecurity)<br>
+5. ⭐ Starred [r0r0x-xx/AeroSpace-Cybersecurity](https://github.com/r0r0x-xx/AeroSpace-Cybersecurity)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
