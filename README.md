@@ -101,9 +101,9 @@ Thank you in advance!
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
 2. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
-3. ⭐ Starred [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3)<br>
-4. ⭐ Starred [Pwnsat/PWNCUBE](https://github.com/Pwnsat/PWNCUBE)<br>
-5. ⭐ Starred [Pwnsat/PWNSAT-C3](https://github.com/Pwnsat/PWNSAT-C3)<br>
+3. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+5. ⭐ Starred [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
