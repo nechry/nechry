@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Add weekly schedule feature](https://github.com/nechry/elco-remocon-net-appdaemon/releases/tag/v1.0.7) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
-2. ⬆️ Pushed undefined commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
-3. ⭐ Starred [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws)<br>
-4. ⭐ Starred [ESPARGOS/esp-sdr](https://github.com/ESPARGOS/esp-sdr)<br>
-5. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+1. ✔️ Closed issue [#23](https://github.com/nechry/elco-remocon-net-appdaemon/issues/23) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+2. ✌️ Released [Add weekly schedule feature](https://github.com/nechry/elco-remocon-net-appdaemon/releases/tag/v1.0.7) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+3. ⬆️ Pushed undefined commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+4. ⭐ Starred [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws)<br>
+5. ⭐ Starred [ESPARGOS/esp-sdr](https://github.com/ESPARGOS/esp-sdr)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
