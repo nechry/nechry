@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#23](https://github.com/nechry/elco-remocon-net-appdaemon/issues/23) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
-2. ✌️ Released [Add weekly schedule feature](https://github.com/nechry/elco-remocon-net-appdaemon/releases/tag/v1.0.7) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
-3. ⬆️ Pushed undefined commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
-4. ⭐ Starred [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws)<br>
-5. ⭐ Starred [ESPARGOS/esp-sdr](https://github.com/ESPARGOS/esp-sdr)<br>
+1. 🔱 Forked [nechry/mac-setup](https://github.com/nechry/mac-setup) from [var77/mac-setup](https://github.com/var77/mac-setup)<br>
+2. ✔️ Closed issue [#23](https://github.com/nechry/elco-remocon-net-appdaemon/issues/23) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+3. ✌️ Released [Add weekly schedule feature](https://github.com/nechry/elco-remocon-net-appdaemon/releases/tag/v1.0.7) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+4. ⬆️ Pushed undefined commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+5. ⭐ Starred [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
