@@ -99,11 +99,11 @@ Thank you in advance!
 ### ⚡Recent Activities ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stuehler-training/STM32_Glitcher_PIO](https://github.com/stuehler-training/STM32_Glitcher_PIO)<br>
-2. 🔱 Forked [nechry/mac-setup](https://github.com/nechry/mac-setup) from [var77/mac-setup](https://github.com/var77/mac-setup)<br>
-3. ✔️ Closed issue [#23](https://github.com/nechry/elco-remocon-net-appdaemon/issues/23) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
-4. ✌️ Released [Add weekly schedule feature](https://github.com/nechry/elco-remocon-net-appdaemon/releases/tag/v1.0.7) in [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
-5. ⬆️ Pushed undefined commit(s) to [nechry/elco-remocon-net-appdaemon](https://github.com/nechry/elco-remocon-net-appdaemon)<br>
+1. ❌ Closed PR [#382](undefined) in [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+2. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+3. ⬆️ Pushed undefined commit(s) to [spie-ics-ag/meraki2azure_ad](https://github.com/spie-ics-ag/meraki2azure_ad)<br>
+4. ⭐ Starred [stuehler-training/STM32_Glitcher_PIO](https://github.com/stuehler-training/STM32_Glitcher_PIO)<br>
+5. 🔱 Forked [nechry/mac-setup](https://github.com/nechry/mac-setup) from [var77/mac-setup](https://github.com/var77/mac-setup)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
